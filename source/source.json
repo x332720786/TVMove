@@ -865,8 +865,8 @@
   "prase": [
     {
       "id": 1,
-      "parseName": "ok",
-      "parseUrl": "https://okjx.cc?url=",
+      "parseName": "颜亦",
+      "parseUrl": "https://jsap.attakids.com/?url=",
       "click": true
     },
     {
@@ -877,8 +877,8 @@
     },
     {
       "id": 3,
-      "parseName": "解析no",
-      "parseUrl": "https://api.qianqi.net/?url=",
+      "parseName": "ok",
+      "parseUrl": "https://okjx.cc?url=",
       "click": true
     },
     {
