@@ -10,20 +10,6 @@
       "searchFilter": false
     },
     {
-      "id": 3,
-      "name": "7k资源",
-      "api": "https://zy.7kjx.com/cjapi.php",
-      "click": true,
-      "searchFilter": false
-    },
-    {
-      "id": 4,
-      "name": "花园影视",
-      "api": "http://api.zz22x.com/inc/qb.php",
-      "click": true,
-      "searchFilter": false
-    },
-    {
       "id": 5,
       "name": "零度资源",
       "api": "https://zy.kuluni.cn/api.php/provide/vod/at/xml",
@@ -38,30 +24,9 @@
       "searchFilter": false
     },
     {
-      "id": 8,
-      "name": "趣步TV",
-      "api": "http://qubu.tv/api.php/provide/vod/at/xml",
-      "click": true,
-      "searchFilter": false
-    },
-    {
-      "id": 9,
-      "name": "123资源",
-      "api": "http://www.123ku.com/inc/api.php",
-      "click": true,
-      "searchFilter": false
-    },
-    {
       "id": 10,
       "name": "88资源",
       "api": "http://www.88zyw.net/inc/api.php",
-      "click": true,
-      "searchFilter": false
-    },
-    {
-      "id": 11,
-      "name": "209资源",
-      "api": "http://www.209zy.net/inc/api.php",
       "click": true,
       "searchFilter": false
     },
@@ -101,13 +66,6 @@
       "searchFilter": false
     },
     {
-      "id": 18,
-      "name": "速播资源",
-      "api": "http://www.subo988.com/inc/api.php",
-      "click": true,
-      "searchFilter": false
-    },
-    {
       "id": 20,
       "name": "天空资源",
       "api": "http://api.tiankongapi.com/api.php/provide/vod/at/xml",
@@ -122,13 +80,6 @@
       "searchFilter": false
     },
     {
-      "id": 22,
-      "name": "电影先生",
-      "api": "http://dianying.im/api.php/provide/vod/at/xml",
-      "click": true,
-      "searchFilter": false
-    },
-    {
       "id": 23,
       "name": "穿梭资源",
       "api": "http://ok.888hyk.com/api.php/provide/vod/at/xml",
@@ -139,13 +90,6 @@
       "id": 24,
       "name": "十点影视",
       "api": "http://shidian.vip/api.php/provide/vod/at/xml",
-      "click": true,
-      "searchFilter": false
-    },
-    {
-      "id": 26,
-      "name": "蚂蚁BT",
-      "api": "https://www.mayipbt.cc/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": false
     },
@@ -174,27 +118,6 @@
       "id": 32,
       "name": "AWSLTV",
       "api": "http://www.awsltv.com/api.php/provide/vod/at/xml",
-      "click": true,
-      "searchFilter": false
-    },
-    {
-      "id": 33,
-      "name": "39影视",
-      "api": "https://www.39kan.com/api.php/provide/vod/at/xml",
-      "click": true,
-      "searchFilter": false
-    },
-    {
-      "id": 34,
-      "name": "小虫追剧",
-      "api": "http://ixiazai.vip/api.php/provide/vod/at/xml",
-      "click": true,
-      "searchFilter": false
-    },
-    {
-      "id": 35,
-      "name": "爱看电影",
-      "api": "http://www.ikanmv.com/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": false
     },
