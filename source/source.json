@@ -123,8 +123,8 @@
     },
     {
       "id": 18,
-      "name": "电影先生",
-      "api": "http://dianying.im/api.php/provide/vod/at/xml",
+      "name": "未来电影",
+      "api": "https://qsulfji.cn/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": false
     },
@@ -165,8 +165,8 @@
     },
     {
       "id": 24,
-      "name": "AWSLTV",
-      "api": "http://www.awsltv.com/api.php/provide/vod/at/xml",
+      "name": "速影TV",
+      "api": "https://xn--128-zm3fr26s.xyz/inc/api.php",
       "click": true,
       "searchFilter": false
     },
@@ -207,8 +207,8 @@
     },
     {
       "id": 30,
-      "name": "影派资源",
-      "api": "https://v.dtjos.com/api.php/provide/vod/at/xml",
+      "name": "麻瓜资源",
+      "api": "http://maguays.cc/api.php/provide/vod/at/xml/",
       "click": true,
       "searchFilter": false
     },
@@ -895,7 +895,7 @@
     },
     {
       "id": 6,
-      "parseName": "解析",
+      "parseName": "66解析",
       "parseUrl": "http://api.3jx.top/vip/?url=",
       "click": true
     },
