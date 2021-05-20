@@ -46,8 +46,8 @@
     },
     {
       "id": 7,
-      "name": "麻瓜资源",
-      "api": "http://maguays.cc/api.php/provide/vod/at/xml/",
+      "name": "免费影院",
+      "api": "http://www.ruiuri.com/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": false
     },
@@ -130,8 +130,8 @@
     },
     {
       "id": 19,
-      "name": "穿梭资源",
-      "api": "http://ok.888hyk.com/api.php/provide/vod/at/xml",
+      "name": "555",
+      "api": "https://www.o8tv.com/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": false
     },
@@ -216,6 +216,13 @@
       "id": 31,
       "name": "4k姨妈",
       "api": "https://4k.4kyima.com/api.php/provide/vod/at/xml",
+      "click": true,
+      "searchFilter": false
+    },
+   {
+      "id": 32,
+      "name": "穿梭资源",
+      "api": "http://ok.888hyk.com/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": false
     }
