@@ -219,10 +219,17 @@
       "click": true,
       "searchFilter": false
     },
-   {
+    {
       "id": 32,
       "name": "穿梭资源",
       "api": "http://ok.888hyk.com/api.php/provide/vod/at/xml",
+      "click": true,
+      "searchFilter": false
+    },
+    {
+      "id": 33,
+      "name": "今日影视",
+      "api": "http://mac.jin.345888.xyz/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": false
     }
