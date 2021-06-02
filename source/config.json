@@ -65,9 +65,9 @@
     },
     {
       "type": "",
-      "sourceName": "麻花资源",
-      "baseUrl": "https://www.mhapi123.com",
-      "apiUrl": "https://www.mhapi123.com/inc/ldg_api_all.php",
+      "sourceName": "不开门",
+      "baseUrl": "https://4k.4kyima.com",
+      "apiUrl": "http://c.bukai.men/api.php/provide/vod/at/xml",
       "parserUrl": ""
     },
     {
@@ -86,7 +86,7 @@
     },
     {
       "type": "",
-      "sourceName": "4k资源",
+      "sourceName": "4k姨妈",
       "baseUrl": "https://4k.4kyima.com",
       "apiUrl": "https://4k.4kyima.com/api.php/provide/vod/at/xml",
       "parserUrl": ""
@@ -201,6 +201,13 @@
       "sourceName": "聚宇资源",
       "baseUrl": "https://zy.ajuyu.com",
       "apiUrl": "https://zy.ajuyu.com/api.php/provide/vod/at/xml",
+      "parserUrl": ""
+    },
+   {
+      "type": "",
+      "sourceName": "PZ影院",
+      "baseUrl": "https://puz.pub",
+      "apiUrl": "https://puz.pub/api.php/provide/vod/at/xml",
       "parserUrl": ""
     },
     {
