@@ -32,8 +32,8 @@
     },
     {
       "id": 5,
-      "name": "星辰",
-      "api": "https://kkjson.wuqcms.com/api.php/provide/vod/at/xml",
+      "name": "不开门",
+      "api": "http://c.bukai.men/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": false
     },
