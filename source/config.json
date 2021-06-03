@@ -66,7 +66,7 @@
     {
       "type": "",
       "sourceName": "不开门",
-      "baseUrl": "https://4k.4kyima.com",
+      "baseUrl": "http://c.bukai.men",
       "apiUrl": "http://c.bukai.men/api.php/provide/vod/at/xml",
       "parserUrl": ""
     },
