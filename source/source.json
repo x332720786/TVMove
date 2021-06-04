@@ -9,10 +9,10 @@
       "click": true,
       "searchFilter": false
     },
-{
+    {
       "id": 2,
-      "name": "独播库",
-      "api": "http://api.dbyunzy.com/api.php/provide/vod/at/xml",
+      "name": "快播资源",
+      "api": "http://www.kuaibozy.com/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": false
     },
@@ -74,8 +74,8 @@
     },
     {
       "id": 11,
-      "name": "快播资源",
-      "api": "http://www.kuaibozy.com/api.php/provide/vod/at/xml",
+      "name": "独播库",
+      "api": "http://api.dbyunzy.com/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": false
     },
@@ -898,74 +898,74 @@
     },
     {
       "id": 4,
-      "parseName": "解析",
-      "parseUrl": "http://jx.hao-zsj.cn/vip/?url=",
+      "parseName": "极速",
+      "parseUrl": "https://url.js.cn/?url=",
       "click": true
     },
     {
       "id": 5,
       "parseName": "解析",
-      "parseUrl": "https://jx.sujx.top/?url=",
+      "parseUrl": "http://jx.hao-zsj.cn/vip/?url=",
       "click": true
     },
     {
       "id": 6,
+      "parseName": "解析",
+      "parseUrl": "https://jx.sujx.top/?url=",
+      "click": true
+    },
+    {
+      "id": 7,
       "parseName": "66解析",
       "parseUrl": "http://api.3jx.top/vip/?url=",
       "click": true
     },
     {
-      "id": 7,
+      "id": 8,
       "parseName": "91解析",
       "parseUrl": "https://www.91jxs.com/jiexi/?url=",
       "click": true
     },
     {
-      "id": 8,
+      "id": 9,
       "parseName": "TV解析",
       "parseUrl": "https://jx.m3u8.tv/jiexi/?url=",
       "click": true
     },
     {
-      "id": 9,
+      "id": 10,
       "parseName": "全民解析",
       "parseUrl": "http://jx.quanmingjiexi.com/?url=",
       "click": true
     },
     {
-      "id": 10,
+      "id": 11,
       "parseName": "金桥解析",
       "parseUrl": "http://jqaaa.com/jx.php?url=",
       "click": true
     },
     {
-      "id": 11,
+      "id": 12,
       "parseName": "解析",
       "parseUrl": "https://www.qianyicp.com/jiexi/index.php?url=",
       "click": true
     },
     {
-      "id": 12,
+      "id": 13,
       "parseName": "解析",
       "parseUrl": "https://www.xymav.com/?url=",
       "click": true
     },
     {
-      "id": 13,
+      "id": 14,
       "parseName": "1717云①",
       "parseUrl": "https://www.1717yun.com/jiexi/?url=",
       "click": true
     },
     {
-      "id": 14,
+      "id": 15,
       "parseName": "1717云②",
       "parseUrl": "https://www.1717yun.com/jx/ty.php?url=",
-      "click": true
-    },
-    {
-      "id": 15,
-      "parseName": "极速",
-      "parseUrl": "https://url.js.cn/?url=",
       "click": true
     },
     {
