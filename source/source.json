@@ -4,15 +4,15 @@
   "vodApi": [
     {
       "id": 1,
-      "name": "蘑菇",
-      "api": "http://www.moguzyw.com:520/moguzy.php/provide/vod/at/xml",
+      "name": "快播资源",
+      "api": "http://www.kuaibozy.com/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": false
     },
     {
       "id": 2,
-      "name": "快播资源",
-      "api": "http://www.kuaibozy.com/api.php/provide/vod/at/xml",
+      "name": "蘑菇",
+      "api": "http://www.moguzyw.com:520/moguzy.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": false
     },
