@@ -4,8 +4,8 @@
   "vodApi": [
     {
       "id": 1,
-      "name": "酷看",
-      "api": "http://kukan.ngys.xyz/api.php/provide/vod/at/xml",
+      "name": "独播库",
+      "api": "http://api.dbyunzy.com/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": false
     },
@@ -81,8 +81,8 @@
     },
     {
       "id": 12,
-      "name": "麻花资源",
-      "api": "https://www.mhapi123.com/inc/apidown.php",
+      "name": "恐怖鸭",
+      "api": "https://kongbuya.com/api.php/provide/vod/at/xml/",
       "click": true,
       "searchFilter": false
     },
@@ -165,8 +165,8 @@
     },
     {
       "id": 24,
-      "name": "速影TV",
-      "api": "https://xn--128-zm3fr26s.xyz/inc/api.php",
+      "name": "影派TV",
+      "api": "https://v.dtjos.com/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": false
     },
@@ -916,25 +916,25 @@
     },
     {
       "id": 7,
-      "parseName": "解析",
+      "parseName": "91解析",
       "parseUrl": "https://www.91jxs.com/jiexi/?url=",
       "click": true
     },
     {
       "id": 8,
-      "parseName": "解析",
+      "parseName": "TV解析",
       "parseUrl": "https://jx.m3u8.tv/jiexi/?url=",
       "click": true
     },
     {
       "id": 9,
-      "parseName": "解析",
+      "parseName": "全民解析",
       "parseUrl": "http://jx.quanmingjiexi.com/?url=",
       "click": true
     },
     {
       "id": 10,
-      "parseName": "解析",
+      "parseName": "金桥解析",
       "parseUrl": "http://jqaaa.com/jx.php?url=",
       "click": true
     },
@@ -958,19 +958,19 @@
     },
     {
       "id": 14,
-      "parseName": "解析",
+      "parseName": "1717云②",
       "parseUrl": "https://www.1717yun.com/jx/ty.php?url=",
       "click": true
     },
     {
       "id": 15,
-      "parseName": "解析",
-      "parseUrl": "https://jx.618g.com/?url=",
+      "parseName": "极速",
+      "parseUrl": "https://url.js.cn/?url=",
       "click": true
     },
     {
       "id": 16,
-      "parseName": "解析",
+      "parseName": "plamtv",
       "parseUrl": "https://plamgtvcache.ccyjjd.com/play.php?url=",
       "click": true
     }
