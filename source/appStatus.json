@@ -1,6 +1,6 @@
 {
- "open": true,
- "newOpen": true,
+ "open": false,
+ "newOpen": false,
  "appOpen":true,
  "versionCode": 126,
  "appHint":"个人复活版，测试1.0，启动！",
