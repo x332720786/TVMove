@@ -879,19 +879,19 @@
     },
         {
       "id": 8,
-      "parseName": "cuan（不正确）",
+      "parseName": "cuan（框架）",
       "parseUrl": "https://www.cuan.la/m3u8.php?url=",
       "click": true
     },
     {
       "id": 9,
-      "parseName": "奇米（不正确）",
+      "parseName": "奇米（框架）",
       "parseUrl": "https://qimihe.com/?url=",
       "click": true
     },
     {
       "id": 10,
-      "parseName": "91解析（不正确）",
+      "parseName": "91解析（框架）",
       "parseUrl": "https://www.91jxs.com/jiexi/?url=",
       "click": true
     },
