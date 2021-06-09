@@ -837,127 +837,121 @@
   "prase": [
     {
       "id": 1,
-      "parseName": "cuan",
-      "parseUrl": "https://www.cuan.la/m3u8.php?url=",
-      "click": true
-    },
-    {
-      "id": 2,
-      "parseName": "ok",
-      "parseUrl": "https://okjx.cc?url=",
-      "click": true
-    },
-    {
-      "id": 3,
-      "parseName": "奇米",
-      "parseUrl": "https://qimihe.com/?url=",
-      "click": true
-    },
-    {
-      "id": 4,
-      "parseName": "颜亦",
+      "parseName": "百度",
       "parseUrl": "https://jsap.attakids.com/?url=",
       "click": true
     },
     {
-      "id": 5,
+      "id": 2,
       "parseName": "乐喵",
       "parseUrl": "http://jx.hao-zsj.cn/vip/?url=",
       "click": true
     },
     {
-      "id": 6,
-      "parseName": "极速",
-      "parseUrl": "https://url.js.cn/?url=",
-      "click": true
-    },
-    {
-      "id": 7,
-      "parseName": "66解析",
-      "parseUrl": "http://api.3jx.top/vip/?url=",
-      "click": true
-    },
-    {
-      "id": 8,
-      "parseName": "91解析",
-      "parseUrl": "https://www.91jxs.com/jiexi/?url=",
-      "click": true
-    },
-    {
-      "id": 9,
+      "id": 3,
       "parseName": "TV解析",
       "parseUrl": "https://jx.m3u8.tv/jiexi/?url=",
       "click": true
     },
     {
-      "id": 10,
-      "parseName": "全民解析",
+      "id": 4,
+      "parseName": "全民",
       "parseUrl": "http://jx.quanmingjiexi.com/?url=",
       "click": true
     },
     {
-      "id": 11,
+      "id": 5,
       "parseName": "云解析",
       "parseUrl": "https://jx.mw0.cc/?url=",
       "click": true
     },
     {
-      "id": 12,
-      "parseName": "98看",
-      "parseUrl": "https://jx.youyitv.com/?url=",
-      "click": true
-    },
-    {
-      "id": 13,
-      "parseName": "七彩解析",
-      "parseUrl": "https://www.xymav.com/?url=",
-      "click": true
-    },
-    {
-      "id": 14,
-      "parseName": "1717云",
-      "parseUrl": "https://www.1717yun.com/jiexi/?url=",
-      "click": true
-    },
-    {
-      "id": 15,
-      "parseName": "play",
-      "parseUrl": "https://www.playm3u8.cn/jiexi.php?url=",
-      "click": true
-    },
-    {
-      "id": 16,
-      "parseName": "plamtv",
-      "parseUrl": "https://plamgtvcache.ccyjjd.com/play.php?url=",
-      "click": true
-    },
-    {
-      "id": 17,
+      "id": 6,
       "parseName": "PP云",
       "parseUrl": "https://jx.ppflv.com/?url=",
       "click": true
     },
     {
-      "id": 18,
-      "parseName": "全网",
+      "id": 7,
+      "parseName": "ok（页广）",
+      "parseUrl": "https://okjx.cc?url=",
+      "click": true
+    },
+        {
+      "id": 8,
+      "parseName": "cuan（不正确）",
+      "parseUrl": "https://www.cuan.la/m3u8.php?url=",
+      "click": true
+    },
+    {
+      "id": 9,
+      "parseName": "奇米（不正确）",
+      "parseUrl": "https://qimihe.com/?url=",
+      "click": true
+    },
+    {
+      "id": 10,
+      "parseName": "91解析（不正确）",
+      "parseUrl": "https://www.91jxs.com/jiexi/?url=",
+      "click": true
+    },
+    {
+      "id": 11,
+      "parseName": "七彩（弹广）",
+      "parseUrl": "https://www.xymav.com/?url=",
+      "click": true
+    },
+    {
+      "id": 12,
+      "parseName": "98看（弹广）",
+      "parseUrl": "https://jx.youyitv.com/?url=",
+      "click": true
+    },
+    {
+      "id": 13,
+      "parseName": "66解析（页广）",
+      "parseUrl": "http://api.3jx.top/vip/?url=",
+      "click": true
+    },
+    {
+      "id": 14,
+      "parseName": "1717云（页广）",
+      "parseUrl": "https://www.1717yun.com/jiexi/?url=",
+      "click": true
+    },
+    {
+      "id": 15,
+      "parseName": "play（页广）",
+      "parseUrl": "https://www.playm3u8.cn/jiexi.php?url=",
+      "click": true
+    },
+    {
+      "id": 16,
+      "parseName": "全网（页广）",
       "parseUrl": "https://jx.elwtc.com/vip/?url=",
       "click": true
     },
     {
-      "id": 19,
-      "parseName": "金桥解析",
+      "id": 17,
+      "parseName": "plamtv（页广）",
+      "parseUrl": "https://plamgtvcache.ccyjjd.com/play.php?url=",
+      "click": true
+    },
+    {
+      "id": 18,
+      "parseName": "金桥（页广）",
       "parseUrl": "http://jqaaa.com/jx.php?url=",
       "click": true
     },
     {
-      "id": 20,
+      "id": 19,
       "parseName": "明日解析",
       "parseUrl": "https://www.qianyicp.com/jiexi/index.php?url=",
       "click": true
     },
     {
-      "id": 21,
-      "parseName": "618G",
+      "id": 20,
+      "parseName": "618G（页广）",
       "parseUrl": "https://jx.618g.com/?url=",
       "click": true
     }
