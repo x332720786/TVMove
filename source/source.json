@@ -897,8 +897,8 @@
     },
     {
       "id": 11,
-      "parseName": "金桥解析",
-      "parseUrl": "http://jqaaa.com/jx.php?url=",
+      "parseName": "云解析",
+      "parseUrl": "https://jx.mw0.cc/?url=",
       "click": true
     },
     {
@@ -945,12 +945,18 @@
     },
     {
       "id": 19,
+      "parseName": "金桥解析",
+      "parseUrl": "http://jqaaa.com/jx.php?url=",
+      "click": true
+    },
+    {
+      "id": 20,
       "parseName": "明日解析",
       "parseUrl": "https://www.qianyicp.com/jiexi/index.php?url=",
       "click": true
     },
     {
-      "id": 20,
+      "id": 21,
       "parseName": "618G",
       "parseUrl": "https://jx.618g.com/?url=",
       "click": true
