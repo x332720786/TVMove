@@ -951,10 +951,10 @@
     },
     {
       "id": 20,
-      "parseName": "解析",
+      "parseName": "618G",
       "parseUrl": "https://jx.618g.com/?url=",
       "click": true
-    },
+    }
   ],
   "searchApi": [
     {
