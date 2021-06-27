@@ -172,8 +172,8 @@
     },
     {
       "id": 25,
-      "name": "4k姨妈",
-      "api": "https://4k.4kyima.com/api.php/provide/vod/at/xml",
+      "name": "唐朝资源",
+      "api": "https://tangchaozy.vip/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": false
     },
@@ -188,6 +188,20 @@
       "id": 27,
       "name": "今日影视",
       "api": "http://mac.jin.345888.xyz/api.php/provide/vod/at/xml",
+      "click": true,
+      "searchFilter": false
+    },
+    {
+      "id": 28,
+      "name": "1886资源",
+      "api": "http://cj.1886zy.co/inc/api.php",
+      "click": true,
+      "searchFilter": false
+    },
+    {
+      "id": 29,
+      "name": "飘花电影网",
+      "api": "http://www.2mjtt.com/inc/api.php/provide/vod/at/xml/",
       "click": true,
       "searchFilter": false
     }
