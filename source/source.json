@@ -969,6 +969,12 @@
       "parseName": "618G（页广）",
       "parseUrl": "https://jx.618g.com/?url=",
       "click": true
+    },
+    {
+      "id": 21,
+      "parseName": "17云（页广）",
+      "parseUrl": "https://17kyun.com/api.php?url=",
+      "click": true
     }
   ],
   "searchApi": [
