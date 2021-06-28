@@ -858,8 +858,8 @@
   "prase": [
     {
       "id": 1,
-      "parseName": "play(页广)",
-      "parseUrl": "https://www.playm3u8.cn/jiexi.php?url=",
+      "parseName": "聚宇",
+      "parseUrl": "http://jf.ajuyu.com/jx/?url=",
       "click": true
     },
     {
