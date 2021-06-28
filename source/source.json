@@ -204,6 +204,13 @@
       "api": "http://www.2mjtt.com/inc/api.php/provide/vod/at/xml/",
       "click": true,
       "searchFilter": false
+    },
+{
+      "id": 29,
+      "name": "605资源",
+      "api": "http://www.605zy.co/inc/api.php",
+      "click": true,
+      "searchFilter": false
     }
   ],
   "live": [
