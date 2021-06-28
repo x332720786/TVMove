@@ -109,7 +109,7 @@
     },
     {
       "id": 16,
-      "name": "百度云资源",
+      "name": "百度云1",
       "api": "https://api.apibdzy.com/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": false
