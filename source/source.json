@@ -12,7 +12,7 @@
     {
       "id": 8,
       "name": "快播云",
-      "api": ""http://www.kuaibozy.com/api.php/provide/vod/from/kbm3u8/at/xml/",
+      "api": "http://www.kuaibozy.com/api.php/provide/vod/from/kbm3u8/at/xml/",
       "click": true,
       "searchFilter": false
     },
@@ -89,7 +89,7 @@
     {
       "id": 8,
       "name": "八戒云",
-      "api": ""http://cj.bajiecaiji.com/inc/bjm3u8.php",
+      "api": "http://cj.bajiecaiji.com/inc/bjm3u8.php",
       "click": true,
       "searchFilter": false
     },
@@ -117,14 +117,14 @@
     {
       "id": 8,
       "name": "百度云2",
-      "api": ""https://cj.apibdzy.com/inc/api.php",
+      "api": "https://cj.apibdzy.com/inc/api.php",
       "click": true,
       "searchFilter": false
     },
     {
       "id": 8,
       "name": "百度云3",
-      "api": ""https://m3u8.apibdzy.com/api.php/provide/vod/at/xml/",
+      "api": "https://m3u8.apibdzy.com/api.php/provide/vod/at/xml/",
       "click": true,
       "searchFilter": false
     },
@@ -159,7 +159,7 @@
     {
       "id": 8,
       "name": "流年影视",
-      "api": ""http://www.liunianys.cn/api.php/provide/vod/at/xml/",
+      "api": "http://www.liunianys.cn/api.php/provide/vod/at/xml/",
       "click": true,
       "searchFilter": false
     },
@@ -208,14 +208,14 @@
     {
       "id": 8,
       "name": "鲸鱼云",
-      "api": ""http://zy.gazf.cn/api.php/provide/vod/at/xml/",
+      "api": "http://zy.gazf.cn/api.php/provide/vod/at/xml/",
       "click": true,
       "searchFilter": false
     },
     {
       "id": 8,
       "name": "m3u8.tv",
-      "api": ""http://www.zycaiji.net:7788/api.php/provide/vod/at/xml/",
+      "api": "http://www.zycaiji.net:7788/api.php/provide/vod/at/xml/",
       "click": true,
       "searchFilter": false
     },
