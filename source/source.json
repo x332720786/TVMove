@@ -1163,6 +1163,12 @@
       "click": true
     },
     {
+      "id": 22,
+      "parseName": "速搜解析",
+      "parseUrl": "https://vip.gdxier.cn/jx/?url=",
+      "click": true
+    },
+    {
       "id": 24,
       "parseName": "618G（页广）",
       "parseUrl": "https://jx.618g.com/?url=",
