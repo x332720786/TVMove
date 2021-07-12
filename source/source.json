@@ -1032,8 +1032,8 @@
     },
     {
       "id": 2,
-      "parseName": "cuan（框架）",
-      "parseUrl": "https://www.cuan.la/m3u8.php?url=",
+      "parseName": "8090",
+      "parseUrl": "https://www.8090.la/api/?url=",
       "click": true
     },
     {
@@ -1116,8 +1116,8 @@
     },
     {
       "id": 16,
-      "parseName": "全网（页广）",
-      "parseUrl": "https://jx.elwtc.com/vip/?url=",
+      "parseName": "江湖",
+      "parseUrl": "https://api.jhdyw.vip/?url=",
       "click": true
     },
     {
@@ -1134,20 +1134,8 @@
     },
     {
       "id": 19,
-      "parseName": "明日解析",
-      "parseUrl": "https://www.qianyicp.com/jiexi/index.php?url=",
-      "click": true
-    },
-    {
-      "id": 20,
       "parseName": "618G（页广）",
       "parseUrl": "https://jx.618g.com/?url=",
-      "click": true
-    },
-    {
-      "id": 21,
-      "parseName": "17云（页广）",
-      "parseUrl": "https://17kyun.com/api.php?url=",
       "click": true
     }
   ],
