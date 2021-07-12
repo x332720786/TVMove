@@ -1122,18 +1122,48 @@
     },
     {
       "id": 17,
+      "parseName": "青海",
+      "parseUrl": "https://api.qianhaijishi.net/?url=",
+      "click": true
+    },
+    {
+      "id": 18,
       "parseName": "plamtv（页广）",
       "parseUrl": "https://plamgtvcache.ccyjjd.com/play.php?url=",
       "click": true
     },
     {
-      "id": 18,
-      "parseName": "金桥（页广）",
-      "parseUrl": "http://jqaaa.com/jx.php?url=",
+      "id": 19,
+      "parseName": "chok8",
+      "parseUrl": "https://www.chok8.com//jx//?url=",
       "click": true
     },
     {
-      "id": 19,
+      "id": 20,
+      "parseName": "ckplayer",
+      "parseUrl": "https://www.ckplayer.vip/jiexi/?url=",
+      "click": true
+    },
+    {
+      "id": 21,
+      "parseName": "ckmov",
+      "parseUrl": "https://www.ckmov.vip/api.php?url=",
+      "click": true
+    },
+    {
+      "id": 22,
+      "parseName": "TNVip",
+      "parseUrl": "https://www.33tn.cn/?url=",
+      "click": true
+    },
+    {
+      "id": 23,
+      "parseName": "电影盒子",
+      "parseUrl": "https://jx5.178du.com/p1/index.php?url=",
+      "click": true
+    },
+    {
+      "id": 24,
       "parseName": "618G（页广）",
       "parseUrl": "https://jx.618g.com/?url=",
       "click": true
