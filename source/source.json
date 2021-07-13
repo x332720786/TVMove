@@ -1032,8 +1032,8 @@
     },
     {
       "id": 2,
-      "parseName": "8090",
-      "parseUrl": "https://www.8090.la/api/?url=",
+      "parseName": "虾米",
+      "parseUrl": "https://jx.xmflv.com/?url=",
       "click": true
     },
     {
@@ -1050,7 +1050,7 @@
     },
     {
       "id": 5,
-      "parseName": "TV解析",
+      "parseName": "m3u8.tv",
       "parseUrl": "https://jx.m3u8.tv/jiexi/?url=",
       "click": true
     },
@@ -1116,60 +1116,180 @@
     },
     {
       "id": 16,
+      "parseName": "百科全网",
+      "parseUrl": "http://jiex.cf/?url=",
+      "click": true
+    },
+    {
+      "id": 17,
       "parseName": "江湖",
       "parseUrl": "https://api.jhdyw.vip/?url=",
       "click": true
     },
     {
-      "id": 17,
+      "id": 18,
       "parseName": "青海",
       "parseUrl": "https://api.qianhaijishi.net/?url=",
       "click": true
     },
     {
-      "id": 18,
+      "id": 19,
+      "parseName": "8090",
+      "parseUrl": "https://www.8090.la/api/?url=",
+      "click": true
+    },
+    {
+      "id": 20,
+      "parseName": "parwix",
+      "parseUrl": "https://egoist.parwix.com:4433/player/?url=",
+      "click": true
+    },
+    {
+      "id": 21,
       "parseName": "plamtv（页广）",
       "parseUrl": "https://plamgtvcache.ccyjjd.com/play.php?url=",
       "click": true
     },
     {
-      "id": 19,
+      "id": 22,
       "parseName": "chok8",
       "parseUrl": "https://www.chok8.com//jx//?url=",
       "click": true
     },
     {
-      "id": 20,
+      "id": 23,
       "parseName": "ckplayer",
       "parseUrl": "https://www.ckplayer.vip/jiexi/?url=",
       "click": true
     },
     {
-      "id": 21,
+      "id": 24,
       "parseName": "ckmov",
       "parseUrl": "https://www.ckmov.vip/api.php?url=",
       "click": true
     },
     {
-      "id": 22,
+      "id": 25,
       "parseName": "TNVip",
       "parseUrl": "https://www.33tn.cn/?url=",
       "click": true
     },
     {
-      "id": 23,
+      "id": 26,
       "parseName": "电影盒子",
       "parseUrl": "https://jx5.178du.com/p1/index.php?url=",
       "click": true
     },
     {
-      "id": 22,
+      "id": 27,
       "parseName": "速搜解析",
       "parseUrl": "https://vip.gdxier.cn/jx/?url=",
       "click": true
     },
     {
-      "id": 24,
+      "id": 28,
+      "parseName": "番茄解析",
+      "parseUrl": "https://dp.fqzy.cc/dplayer/?url=",
+      "click": true
+    },
+    {
+      "id": 29,
+      "parseName": "RDHK",
+      "parseUrl": "http://jx.rdhk.net/?v=",
+      "click": true
+    },
+    {
+      "id": 30,
+      "parseName": "大树解析",
+      "parseUrl": "https://jx.wlssys.xyz/vip.php?url=",
+      "click": true
+    },
+    {
+      "id": 31,
+      "parseName": "BL解析",
+      "parseUrl": "https://vip.bljiex.com/?v=",
+      "click": true
+    },
+    {
+      "id": 32,
+      "parseName": "爱跟解析",
+      "parseUrl": "https://vip.2ktvb.com/player/?url=",
+      "click": true
+    },
+    {
+      "id": 33,
+      "parseName": "迪奥解析",
+      "parseUrl": "https://123.1dior.cn/?url=",
+      "click": true
+    },
+    {
+      "id": 34,
+      "parseName": "688解析",
+      "parseUrl": "https://jx.popo520.cn/jiexi/?url=",
+      "click": true
+    },
+    {
+      "id": 35,
+      "parseName": "H8解析",
+      "parseUrl": "https://www.h8jx.com/jiexi.php?url=",
+      "click": true
+    },
+    {
+      "id": 36,
+      "parseName": "解析啦",
+      "parseUrl": "https://api.jiexi.la/?url=",
+      "click": true
+    },
+    {
+      "id": 37,
+      "parseName": "老板解析",
+      "parseUrl": "https://vip.laobandq.com/jiexi.php?url=",
+      "click": true
+    },
+    {
+      "id": 38,
+      "parseName": "月亮云",
+      "parseUrl": "http://api.yueliangjx.com/?url=",
+      "click": true
+    },
+    {
+      "id": 39,
+      "parseName": "七哥",
+      "parseUrl": "https://jx.mmkv.cn/tv.php?url=",
+      "click": true
+    },
+    {
+      "id": 40,
+      "parseName": "MAQQ",
+      "parseUrl": "https://player.maqq.cn/?url=",
+      "click": true
+    },
+    {
+      "id": 41,
+      "parseName": "思云",
+      "parseUrl": "https://jx.ap2p.cn/?url=",
+      "click": true
+    },
+    {
+      "id": 42,
+      "parseName": "诺讯",
+      "parseUrl": "https://www.nxflv.com/?url=",
+      "click": true
+    },
+    {
+      "id": 43,
+      "parseName": "cuan",
+      "parseUrl": "https://www.cuan.la/m3u8.php?url=",
+      "click": true
+    },
+    {
+      "id": 44,
+      "parseName": "快播",
+      "parseUrl": "https://vip.qvod.us/?url=",
+      "click": true
+    },
+    {
+      "id": 45,
       "parseName": "618G（页广）",
       "parseUrl": "https://jx.618g.com/?url=",
       "click": true
