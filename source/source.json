@@ -1021,6 +1021,28 @@
         "http://39.134.66.66/PLTV/88888888/224/3221225633/index.m3u8",
         "http://39.134.66.66/PLTV/88888888/224/3221225640/index.m3u8"
       ]
+    },
+    {
+      "channelNum": 83,
+      "channelName": "翡翠台",
+      "channelUrls": [
+        "https://cdn.hkdtmb.com/hls/81/index.m3u8",
+      ]
+    },
+    {
+      "channelNum": 84,
+      "channelName": "viuTV",
+      "channelUrls": [
+        "http://61.238.6.49:8000/bysid/99",
+        "https://cdn.hkdtmb.com/hls/99/index.m3u8",
+      ]
+    },
+    {
+      "channelNum": 85,
+      "channelName": "viuTV6",
+      "channelUrls": [
+        "http://61.238.6.49:8000/bysid/96",
+      ]
     }
   ],
   "prase": [
