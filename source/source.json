@@ -1204,8 +1204,8 @@
     },
     {
       "id": 27,
-      "parseName": "番茄解析",
-      "parseUrl": "https://dp.fqzy.cc/dplayer/?url=",
+      "parseName": "B站专用",
+      "parseUrl": "https://www.cuan.la/m3u8.php?url=",
       "click": true
     },
     {
@@ -1282,36 +1282,18 @@
     },
     {
       "id": 40,
-      "parseName": "思云",
-      "parseUrl": "https://jx.ap2p.cn/?url=",
-      "click": true
-    },
-    {
-      "id": 41,
       "parseName": "诺讯",
       "parseUrl": "https://www.nxflv.com/?url=",
       "click": true
     },
     {
-      "id": 42,
+      "id": 41,
       "parseName": "1717云（页广）",
       "parseUrl": "https://www.1717yun.com/jiexi/?url=",
       "click": true
     },
     {
-      "id": 43,
-      "parseName": "cuan",
-      "parseUrl": "https://www.cuan.la/m3u8.php?url=",
-      "click": true
-    },
-    {
-      "id": 44,
-      "parseName": "快播",
-      "parseUrl": "https://vip.qvod.us/?url=",
-      "click": true
-    },
-    {
-      "id": 45,
+      "id": 42,
       "parseName": "618G（页广）",
       "parseUrl": "https://jx.618g.com/?url=",
       "click": true
