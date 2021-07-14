@@ -1033,8 +1033,8 @@
       "channelNum": 84,
       "channelName": "viuTV",
       "channelUrls": [
-        "http://61.238.6.49:8000/bysid/99",
         "https://cdn.hkdtmb.com/hls/99/index.m3u8",
+        "http://61.238.6.49:8000/bysid/99",
       ]
     },
     {
