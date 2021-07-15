@@ -1117,6 +1117,12 @@
       "parseName": "cuan_B站专用",
       "parseUrl": "https://www.cuan.la/m3u8.php?url=",
       "click": true
+    },
+    {
+      "id": 12,
+      "parseName": "ok解析",
+      "parseUrl": "http://okjx.cc/?url=",
+      "click": true
     }
   ],
   "searchApi": [
