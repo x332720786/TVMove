@@ -1114,14 +1114,20 @@
     },
     {
       "id": 12,
-      "parseName": "cuan_B站专用",
-      "parseUrl": "https://www.cuan.la/m3u8.php?url=",
+      "parseName": "ok解析",
+      "parseUrl": "http://okjx.cc/?url=",
       "click": true
     },
     {
       "id": 13,
-      "parseName": "ok解析",
-      "parseUrl": "http://okjx.cc/?url=",
+      "parseName": "M3U8.tv",
+      "parseUrl": "https://jx.m3u8.tv/jiexi/?url=",
+      "click": true
+    },
+    {
+      "id": 14,
+      "parseName": "cuan_B站专用",
+      "parseUrl": "https://www.cuan.la/m3u8.php?url=",
       "click": true
     }
   ],
