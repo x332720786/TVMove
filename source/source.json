@@ -966,7 +966,8 @@
       "channelNum": 83,
       "channelName": "翡翠台",
       "channelUrls": [
-        "https://cdn.hkdtmb.com/hls/81/index.m3u8"
+        "https://cdn.hkdtmb.com/hls/81/index.m3u8",
+        "http://61.238.6.49:8000/bysid/1"
       ]
     },
     {
