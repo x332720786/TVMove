@@ -414,7 +414,8 @@
       "channelNum": 5,
       "channelName": "CCTV5",
       "channelUrls": [
-        "http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221226362/index.m3u8"
+        "http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221226362/index.m3u8",
+        "http://39.135.138.8:6610/PLTV/88888888/224/3221225633/2/index.m3u8?fmt=ts2hls"
       ]
     },
     {
@@ -569,8 +570,7 @@
       "channelNum": 27,
       "channelName": "浙江卫视",
       "channelUrls": [
-        "http://39.135.33.12/PLTV/77777777/224/3221226562/index.m3u8",
-        "http://39.135.33.12/PLTV/77777777/224/3221226729/index.m3u8"
+        "http://39.135.138.8:6610/PLTV/88888888/224/3221225703/2/index.m3u8?fmt=ts2hls"
       ]
     },
     {
@@ -591,7 +591,8 @@
       "channelNum": 30,
       "channelName": "湖南卫视",
       "channelUrls": [
-        "http://ivi.bupt.edu.cn/hls/hunanhd.m3u8"
+        "http://ivi.bupt.edu.cn/hls/hunanhd.m3u8",
+        "http://39.135.138.8:6610/PLTV/88888888/224/3221225704/2/index.m3u8?fmt=ts2hls"
       ]
     },
     {
@@ -808,63 +809,63 @@
       "channelNum": 61,
       "channelName": "NewTV中国功夫",
       "channelUrls": [
-        "http://39.135.33.12/PLTV/77777777/224/3221226576/index.m3u8"
+        "http://39.135.138.5:6610/PLTV/88888888/224/3221225660/2/index.m3u8"
       ]
     },
     {
       "channelNum": 62,
       "channelName": "NewTV军事评论",
       "channelUrls": [
-        "http://39.135.33.12/PLTV/77777777/224/3221226627/index.m3u8"
+        "http://39.135.138.5:6610/PLTV/88888888/224/3221225757/2/index.m3u8"
       ]
     },
     {
       "channelNum": 63,
       "channelName": "NewTV军旅剧场",
       "channelUrls": [
-        "http://39.135.33.12/PLTV/77777777/224/3221226570/index.m3u8"
+        "http://39.135.138.5:6610/PLTV/88888888/224/3221225669/2/index.m3u8"
       ]
     },
     {
       "channelNum": 64,
       "channelName": "NewTV农业致富",
       "channelUrls": [
-        "http://39.135.33.12/PLTV/77777777/224/3221226572/index.m3u8"
+        "http://39.135.138.5:6610/PLTV/88888888/224/3221225670/2/index.m3u8"
       ]
     },
     {
       "channelNum": 65,
       "channelName": "NewTV动作电影",
       "channelUrls": [
-        "http://39.135.33.12/PLTV/77777777/224/3221226540/index.m3u8"
+        "http://39.135.138.5:6610/PLTV/88888888/224/3221225671/2/index.m3u8"
       ]
     },
     {
       "channelNum": 66,
       "channelName": "NewTV古装剧场",
       "channelUrls": [
-        "http://39.135.33.12/PLTV/77777777/224/3221226595/index.m3u8"
+        "http://39.135.138.5:6610/PLTV/88888888/224/3221225678/2/index.m3u8"
       ]
     },
     {
       "channelNum": 67,
       "channelName": "NewTV家庭剧场",
       "channelUrls": [
-        "http://39.135.33.12/PLTV/77777777/224/3221226621/index.m3u8"
+        "http://39.135.138.5:6610/PLTV/88888888/224/3221225713/2/index.m3u8"
       ]
     },
     {
       "channelNum": 68,
       "channelName": "NewTV怡伴健康",
       "channelUrls": [
-        "http://39.135.33.12/PLTV/77777777/224/3221226631/index.m3u8"
+        "http://39.135.138.5:6610/PLTV/88888888/224/3221225666/2/index.m3u8"
       ]
     },
     {
       "channelNum": 69,
       "channelName": "NewTV惊悚悬疑",
       "channelUrls": [
-        "http://39.135.33.12/PLTV/77777777/224/3221226568/index.m3u8"
+        "http://39.135.138.5:6610/PLTV/88888888/224/3221225717/2/index.m3u8"
       ]
     },
     {
@@ -878,92 +879,124 @@
       "channelNum": 71,
       "channelName": "NewTV武搏世界",
       "channelUrls": [
-        "http://39.135.33.12/PLTV/77777777/224/3221226637/index.m3u8"
+        "http://39.135.138.5:6610/PLTV/88888888/224/3221225656/2/index.m3u8"
       ]
     },
     {
       "channelNum": 72,
-      "channelName": "NewTV海外剧场",
+      "channelName": "NewTV明星大片",
       "channelUrls": [
-        "http://39.135.33.12/PLTV/77777777/224/3221226665/index.m3u8"
+        "http://39.135.138.5:6610/PLTV/88888888/224/3221225716/2/index.m3u8"
       ]
     },
     {
       "channelNum": 73,
-      "channelName": "NewTV潮妈辣婆",
+      "channelName": "NewTV海外剧场",
       "channelUrls": [
-        "http://39.135.33.12/PLTV/77777777/224/3221226542/index.m3u8"
+        "http://39.135.138.5:6610/PLTV/88888888/224/3221225712/2/index.m3u8"
       ]
     },
     {
       "channelNum": 74,
-      "channelName": "NewTV炫舞未来",
+      "channelName": "NewTV潮妈辣婆",
       "channelUrls": [
-        "http://39.135.33.12/PLTV/77777777/224/3221226560/index.m3u8"
+        "http://39.135.138.5:6610/PLTV/88888888/224/3221225708/2/index.m3u8"
       ]
     },
     {
       "channelNum": 75,
-      "channelName": "NewTV爱情喜剧",
+      "channelName": "NewTV炫舞未来",
       "channelUrls": [
-        "http://39.135.33.12/PLTV/77777777/224/3221226532/index.m3u8"
+        "http://39.135.138.5:6610/PLTV/88888888/224/3221225707/2/index.m3u8"
       ]
     },
     {
       "channelNum": 76,
-      "channelName": "NewTV精品体育",
+      "channelName": "NewTV爱情喜剧",
       "channelUrls": [
-        "http://39.135.33.12/PLTV/77777777/224/3221226625/index.m3u8"
+        "http://39.135.138.5:6610/PLTV/88888888/224/3221225748/2/index.m3u8"
       ]
     },
     {
       "channelNum": 77,
-      "channelName": "NewTV精品大剧",
+      "channelName": "NewTV精品体育",
       "channelUrls": [
-        "http://39.135.33.12/PLTV/77777777/224/3221226617/index.m3u8"
+        "http://39.135.138.5:6610/PLTV/88888888/224/3221225709/2/index.m3u8"
       ]
     },
     {
       "channelNum": 78,
-      "channelName": "NewTV精品纪录",
+      "channelName": "NewTV精品大剧",
       "channelUrls": [
-        "http://39.135.33.12/PLTV/77777777/224/3221226623/index.m3u8"
+        "http://39.135.138.5:6610/PLTV/88888888/224/3221225714/2/index.m3u8"
       ]
     },
     {
       "channelNum": 79,
-      "channelName": "NewTV金牌综艺",
+      "channelName": "NewTV精品纪录",
       "channelUrls": [
-        "http://39.135.33.12/PLTV/77777777/224/3221226574/index.m3u8"
+        "http://39.135.138.5:6610/PLTV/88888888/224/3221225710/2/index.m3u8"
       ]
     },
     {
       "channelNum": 80,
-      "channelName": "黑莓动画",
+      "channelName": "NewTV超级体育",
       "channelUrls": [
-        "http://39.134.66.66/PLTV/88888888/224/3221225529/index.m3u8",
-        "http://39.134.66.66/PLTV/88888888/224/3221225683/index.m3u8"
+        "http://39.135.138.5:6610/PLTV/88888888/224/3221225767/2/index.m3u8"
       ]
     },
     {
       "channelNum": 81,
-      "channelName": "黑莓电影",
+      "channelName": "NewTV超级电影",
       "channelUrls": [
-        "http://39.134.66.66/PLTV/88888888/224/3221225523/index.m3u8",
-        "http://39.134.66.66/PLTV/88888888/224/3221225681/index.m3u8"
+        "http://39.135.138.5:6610/PLTV/88888888/224/3221225766/2/index.m3u8"
       ]
     },
     {
       "channelNum": 82,
-      "channelName": "黑莓电竞",
+      "channelName": "NewTV超级电视剧",
       "channelUrls": [
-        "http://39.134.66.66/PLTV/88888888/224/3221225559/index.m3u8",
-        "http://39.134.66.66/PLTV/88888888/224/3221225633/index.m3u8",
-        "http://39.134.66.66/PLTV/88888888/224/3221225640/index.m3u8"
+        "http://39.135.138.5:6610/PLTV/88888888/224/3221225765/2/index.m3u8"
       ]
     },
     {
       "channelNum": 83,
+      "channelName": "NewTV超级综艺",
+      "channelUrls": [
+        "http://39.135.138.5:6610/PLTV/88888888/224/3221225768/2/index.m3u8"
+      ]
+    },
+    {
+      "channelNum": 84,
+      "channelName": "NewTV金牌综艺",
+      "channelUrls": [
+        "http://39.135.138.5:6610/PLTV/88888888/224/3221225711/2/index.m3u8"
+      ]
+    },
+    {
+      "channelNum": 85,
+      "channelName": "黑莓动画",
+      "channelUrls": [
+        "http://39.135.138.5:6610/PLTV/88888888/224/3221225672/2/index.m3u8"
+      ]
+    },
+    {
+      "channelNum": 86,
+      "channelName": "黑莓电影",
+      "channelUrls": [
+        "http://39.135.138.5:6610/PLTV/88888888/224/3221225718/2/index.m3u8"
+      ]
+    },
+    {
+      "channelNum": 87,
+      "channelName": "黑莓电竞",
+      "channelUrls": [
+        "http://39.134.66.66/PLTV/88888888/224/3221225559/index.m3u8",
+        "http://39.135.138.5:6610/PLTV/88888888/224/3221225653/2/index.m3u8"
+      ]
+    },
+    {
+      "channelNum": 88,
       "channelName": "翡翠台",
       "channelUrls": [
         "https://cdn.hkdtmb.com/hls/81/index.m3u8",
@@ -971,7 +1004,7 @@
       ]
     },
     {
-      "channelNum": 84,
+      "channelNum": 89,
       "channelName": "viuTV",
       "channelUrls": [
         "https://cdn.hkdtmb.com/hls/99/index.m3u8",
@@ -979,29 +1012,29 @@
       ]
     },
     {
-      "channelNum": 85,
+      "channelNum": 90,
       "channelName": "viuTV6",
       "channelUrls": [
         "http://61.238.6.49:8000/bysid/96"
       ]
     },
     {
-      "channelNum": 86,
+      "channelNum": 91,
       "channelName": "珠江频道",
       "channelUrls": [
         "http://149.129.100.78/guangdong.php?id=44"
       ]
     },
     {
-      "channelNum": 87,
+      "channelNum": 92,
       "channelName": "广东新闻",
       "channelUrls": [
         "http://149.129.100.78/guangdong.php?id=45"
       ]
     },
     {
-      "channelNum": 88,
-      "channelName": "珠江频道",
+      "channelNum": 93,
+      "channelName": "广东影视",
       "channelUrls": [
         "http://149.129.100.78/guangdong.php?id=53"
       ]
