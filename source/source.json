@@ -414,8 +414,8 @@
       "channelNum": 5,
       "channelName": "CCTV5",
       "channelUrls": [
-        "http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221226362/index.m3u8",
-        "http://39.135.138.8:6610/PLTV/88888888/224/3221225633/2/index.m3u8?fmt=ts2hls"
+        "http://39.135.138.8:6610/PLTV/88888888/224/3221225633/2/index.m3u8?fmt=ts2hls",
+        "http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221226362/index.m3u8"
       ]
     },
     {
@@ -788,21 +788,22 @@
       "channelNum": 58,
       "channelName": "金鹰纪实",
       "channelUrls": [
-        "http://ivi.bupt.edu.cn/hls/gedocu.m3u8"
+        "http://ivi.bupt.edu.cn/hls/gedocu.m3u8",
+        "http://39.135.138.5:6610/PLTV/88888888/224/3221225595/2/index.m3u8"
       ]
     },
     {
       "channelNum": 59,
       "channelName": "上海纪实人文",
       "channelUrls": [
-        "http://39.135.33.12/PLTV/77777777/224/3221226727/index.m3u8"
+        "http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8"
       ]
     },
     {
       "channelNum": 60,
       "channelName": "北京冬奥纪实",
       "channelUrls": [
-        "http://39.135.33.12/PLTV/77777777/224/3221226668/index.m3u8"
+        "http://39.135.138.5:6610/PLTV/88888888/224/3221225676/2/index.m3u8"
       ]
     },
     {
