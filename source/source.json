@@ -592,7 +592,8 @@
       "channelName": "湖南卫视",
       "channelUrls": [
         "http://ivi.bupt.edu.cn/hls/hunanhd.m3u8",
-        "http://39.135.138.8:6610/PLTV/88888888/224/3221225704/2/index.m3u8?fmt=ts2hls"
+        "http://39.135.138.8:6610/PLTV/88888888/224/3221225704/2/index.m3u8?fmt=ts2hls",
+        "http://183.207.248.71:80/cntv/live1/hunanstv/hunanstv"
       ]
     },
     {
@@ -1006,35 +1007,81 @@
     },
     {
       "channelNum": 89,
-      "channelName": "viuTV",
+      "channelName": "J2",
       "channelUrls": [
-        "https://cdn.hkdtmb.com/hls/99/index.m3u8",
-        "http://61.238.6.49:8000/bysid/99"
+        "https://cdn.hkdtmb.com/hls/82/index.m3u8"
       ]
     },
     {
       "channelNum": 90,
-      "channelName": "viuTV6",
+      "channelName": "无线新闻",
       "channelUrls": [
-        "http://61.238.6.49:8000/bysid/96"
+        "https://cdn.hkdtmb.com/hls/83/index.m3u8"
       ]
     },
     {
       "channelNum": 91,
+      "channelName": "无线财经",
+      "channelUrls": [
+        "https://cdn.hkdtmb.com/hls/85/index.m3u8"
+      ]
+    },
+    {
+      "channelNum": 92,
+      "channelName": "明珠台",
+      "channelUrls": [
+        "https://cdn.hkdtmb.com/hls/84/index.m3u8",
+        "http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=12&amp;FvSeid=1&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;Provider_id=&amp;Pcontent_id=.m3u8"
+      ]
+    },
+    {
+      "channelNum": 93,
+      "channelName": "viuTV",
+      "channelUrls": [
+        "https://cdn.hkdtmb.com/hls/99/index.m3u8",
+        "http://61.238.6.49:8000/bysid/99.m3u8",
+        "http://61.238.6.49:8000/bysid/99"
+      ]
+    },
+    {
+      "channelNum": 94,
+      "channelName": "viuTV6",
+      "channelUrls": [
+        "https://cdn.hkdtmb.com/hls/96/index.m3u8",
+        "http://61.238.6.49:8000/bysid/96.m3u8",
+        "http://61.238.6.49:8000/bysid/96"
+      ]
+    },
+    {
+      "channelNum": 95,
+      "channelName": "RTHK31",
+      "channelUrls": [
+        "https://cdn.hkdtmb.com/hls/31/index.m3u8"
+      ]
+    },
+    {
+      "channelNum": 96,
+      "channelName": "RTHK32",
+      "channelUrls": [
+        "https://cdn.hkdtmb.com/hls/32/index.m3u8"
+      ]
+    },
+    {
+      "channelNum": 97,
       "channelName": "珠江频道",
       "channelUrls": [
         "http://149.129.100.78/guangdong.php?id=44"
       ]
     },
     {
-      "channelNum": 92,
+      "channelNum": 98,
       "channelName": "广东新闻",
       "channelUrls": [
         "http://149.129.100.78/guangdong.php?id=45"
       ]
     },
     {
-      "channelNum": 93,
+      "channelNum": 99,
       "channelName": "广东影视",
       "channelUrls": [
         "http://149.129.100.78/guangdong.php?id=53"
