@@ -1060,20 +1060,27 @@
     },
     {
       "channelNum": 95,
+      "channelName": "香港开电视",
+      "channelUrls": [
+        "https://cdn.hkdtmb.com/hls/77/index.m3u8"
+      ]
+    },
+    {
+      "channelNum": 96,
       "channelName": "RTHK31",
       "channelUrls": [
         "https://cdn.hkdtmb.com/hls/31/index.m3u8"
       ]
     },
     {
-      "channelNum": 96,
+      "channelNum": 97,
       "channelName": "RTHK32",
       "channelUrls": [
         "https://cdn.hkdtmb.com/hls/32/index.m3u8"
       ]
     },
     {
-      "channelNum": 97,
+      "channelNum": 98,
       "channelName": "珠江频道",
       "channelUrls": [
         "http://149.129.100.78/guangdong.php?id=44",
@@ -1081,14 +1088,14 @@
       ]
     },
     {
-      "channelNum": 98,
+      "channelNum": 99,
       "channelName": "广东新闻",
       "channelUrls": [
         "http://149.129.100.78/guangdong.php?id=45"
       ]
     },
     {
-      "channelNum": 99,
+      "channelNum": 100,
       "channelName": "广东影视",
       "channelUrls": [
         "http://149.129.100.78/guangdong.php?id=53"
