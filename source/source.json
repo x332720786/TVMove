@@ -415,7 +415,6 @@
       "channelName": "CCTV5",
       "channelUrls": [
         "http://39.135.138.8:6610/PLTV/88888888/224/3221225633/2/index.m3u8?fmt=ts2hls",
-        "http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221226362/index.m3u8"
       ]
     },
     {
@@ -592,9 +591,7 @@
       "channelName": "湖南卫视",
       "channelUrls": [
         "http://ivi.bupt.edu.cn/hls/hunanhd.m3u8",
-        "http://39.135.138.8:6610/PLTV/88888888/224/3221225704/2/index.m3u8?fmt=ts2hls",
-        "http://183.207.248.71:80/cntv/live1/hunanstv/hunanstv",
-        "http://11http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=06&amp;FvSeid=1&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;Provider_id=&amp;Pcontent_id=.m3u8"
+        "http://39.135.138.8:6610/PLTV/88888888/224/3221225704/2/index.m3u8?fmt=ts2hls"
       ]
     },
     {
@@ -798,6 +795,7 @@
       "channelNum": 59,
       "channelName": "上海纪实人文",
       "channelUrls": [
+        "http://39.135.138.8:6610/PLTV/88888888/224/3221225704/2/index.m3u8?fmt=ts2hls",
         "http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8"
       ]
     },
@@ -1002,10 +1000,7 @@
       "channelNum": 88,
       "channelName": "翡翠台",
       "channelUrls": [
-        "https://cdn.hkdtmb.com/hls/81/index.m3u8",
-        "http://61.238.6.49:8000/bysid/1",
-        "http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=188",
-        "http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1"
+        "https://cdn.hkdtmb.com/hls/81/index.m3u8"
       ]
     },
     {
@@ -1034,28 +1029,20 @@
       "channelName": "明珠台",
       "channelUrls": [
         "https://cdn.hkdtmb.com/hls/84/index.m3u8",
-        "http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=12&amp;FvSeid=1&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;Provider_id=&amp;Pcontent_id=.m3u8",
-        "http://116.199.5.52:8114/00000000/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8",
-        "http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1",
-        "http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=12&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A"
       ]
     },
     {
       "channelNum": 93,
       "channelName": "viuTV",
       "channelUrls": [
-        "https://cdn.hkdtmb.com/hls/99/index.m3u8",
-        "http://61.238.6.49:8000/bysid/99.m3u8",
-        "http://61.238.6.49:8000/bysid/99"
+        "https://cdn.hkdtmb.com/hls/99/index.m3u8"
       ]
     },
     {
       "channelNum": 94,
       "channelName": "viuTV6",
       "channelUrls": [
-        "https://cdn.hkdtmb.com/hls/96/index.m3u8",
-        "http://61.238.6.49:8000/bysid/96.m3u8",
-        "http://61.238.6.49:8000/bysid/96"
+        "https://cdn.hkdtmb.com/hls/96/index.m3u8"
       ]
     },
     {
