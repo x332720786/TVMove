@@ -144,8 +144,8 @@
     },
     {
       "id": 21,
-      "name": "PZ影视",
-      "api": "https://puz.pub/api.php/provide/vod/at/xml",
+      "name": "蓝猫B站",
+      "api": "https://www.lmzy.cc/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": false
     },
