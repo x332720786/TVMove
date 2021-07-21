@@ -1133,6 +1133,12 @@
       "parseName": "七彩",
       "parseUrl": "https://www.xymav.com/?url=",
       "click": true
+    },
+    {
+      "id": 13,
+      "parseName": "解析啦",
+      "parseUrl": "https://api.jiexi.la/?url=",
+      "click": true
     }
   ],
   "searchApi": [
