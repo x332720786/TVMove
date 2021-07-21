@@ -10,13 +10,6 @@
       "searchFilter": false
     },
     {
-      "id": 2,
-      "name": "快播云",
-      "api": "http://www.kuaibozy.com/api.php/provide/vod/from/kbm3u8/at/xml/",
-      "click": true,
-      "searchFilter": false
-    },
-    {
       "id": 3,
       "name": "红牛",
       "api": "http://www.hongniuzy.com/inc/api.php",
@@ -83,13 +76,6 @@
       "id": 12,
       "name": "八戒资源",
       "api": "http://cj.bajiecaiji.com/inc/api.php",
-      "click": true,
-      "searchFilter": false
-    },
-    {
-      "id": 13,
-      "name": "八戒云",
-      "api": "http://cj.bajiecaiji.com/inc/bjm3u8.php",
       "click": true,
       "searchFilter": false
     },
