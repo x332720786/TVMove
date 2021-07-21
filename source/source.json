@@ -1070,14 +1070,14 @@
     },
     {
       "id": 2,
-      "parseName": "奇米",
-      "parseUrl": "https://qimihe.com/?url=",
-      "click": true
-    },
-        {
-      "id": 3,
       "parseName": "parwix",
       "parseUrl": "https://egoist.parwix.com:4433/player/?url=",
+      "click": true
+    },
+    {
+      "id": 3,
+      "parseName": "ok解析",
+      "parseUrl": "http://okjx.cc/?url=",
       "click": true
     },
     {
@@ -1124,26 +1124,20 @@
     },
     {
       "id": 11,
-      "parseName": "ok解析",
-      "parseUrl": "http://okjx.cc/?url=",
+      "parseName": "M3U8.tv",
+      "parseUrl": "https://jx.m3u8.tv/jiexi/?url=",
       "click": true
     },
     {
       "id": 12,
-      "parseName": "M3U8.tv",
-      "parseUrl": "https://jx.m3u8.tv/jiexi/?url=",
+      "parseName": "奇米",
+      "parseUrl": "https://qimihe.com/?url=",
       "click": true
     },
     {
       "id": 13,
       "parseName": "cuan_B站专用",
       "parseUrl": "https://www.cuan.la/m3u8.php?url=",
-      "click": true
-    },
-    {
-      "id": 14,
-      "parseName": "聚宇",
-      "parseUrl": "http://jf.ajuyu.com/jx/?url=",
       "click": true
     }
   ],
