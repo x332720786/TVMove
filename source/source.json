@@ -340,7 +340,7 @@
     },
     {
       "id": 51,
-      "name": "605资源",
+      "name": "605",
       "api": "http://www.605zy.co/inc/api.php",
       "click": true,
       "searchFilter": false
