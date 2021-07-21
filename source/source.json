@@ -1082,23 +1082,23 @@
       ]
     }
   ],
-  "prase": [
+  "prase": [   
     {
       "id": 1,
-      "parseName": "聚宇",
-      "parseUrl": "http://jf.ajuyu.com/jx/?url=",
-      "click": true
-    },
-    {
-      "id": 2,
       "parseName": "虾米",
       "parseUrl": "https://jx.xmflv.com/?url=",
       "click": true
     },
     {
-      "id": 3,
+      "id": 2,
       "parseName": "奇米",
       "parseUrl": "https://qimihe.com/?url=",
+      "click": true
+    },
+        {
+      "id": 3,
+      "parseName": "parwix",
+      "parseUrl": "https://egoist.parwix.com:4433/player/?url=",
       "click": true
     },
     {
@@ -1115,56 +1115,56 @@
     },
     {
       "id": 6,
-      "parseName": "parwix",
-      "parseUrl": "https://egoist.parwix.com:4433/player/?url=",
-      "click": true
-    },
-    {
-      "id": 7,
       "parseName": "TNVip",
       "parseUrl": "https://www.33tn.cn/?url=",
       "click": true
     },
     {
-      "id": 8,
+      "id": 7,
       "parseName": "迪奥解析",
       "parseUrl": "https://123.1dior.cn/?url=",
       "click": true
     },
     {
-      "id": 9,
+      "id": 8,
       "parseName": "老板解析",
       "parseUrl": "https://vip.laobandq.com/jiexi.php?url=",
       "click": true
     },
     {
-      "id": 10,
+      "id": 9,
       "parseName": "月亮云",
       "parseUrl": "http://api.yueliangjx.com/?url=",
       "click": true
     },
     {
-      "id": 11,
+      "id": 10,
       "parseName": "MAQQ",
       "parseUrl": "https://player.maqq.cn/?url=",
       "click": true
     },
     {
-      "id": 12,
+      "id": 11,
       "parseName": "ok解析",
       "parseUrl": "http://okjx.cc/?url=",
       "click": true
     },
     {
-      "id": 13,
+      "id": 12,
       "parseName": "M3U8.tv",
       "parseUrl": "https://jx.m3u8.tv/jiexi/?url=",
       "click": true
     },
     {
-      "id": 14,
+      "id": 13,
       "parseName": "cuan_B站专用",
       "parseUrl": "https://www.cuan.la/m3u8.php?url=",
+      "click": true
+    },
+    {
+      "id": 14,
+      "parseName": "聚宇",
+      "parseUrl": "http://jf.ajuyu.com/jx/?url=",
       "click": true
     }
   ],
