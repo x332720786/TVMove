@@ -185,13 +185,6 @@
       "searchFilter": false
     },
     {
-      "id": 27,
-      "name": "清欢资源",
-      "api": "http://free.qinghuanzy.com:666/api.php/provide/vod/at/xml/",
-      "click": true,
-      "searchFilter": false
-    },
-    {
       "id": 28,
       "name": "速搜资源",
       "api": "http://www.susouzy.com/api.php/provide/vod/at/xml/",
@@ -223,13 +216,6 @@
       "id": 32,
       "name": "明日资源",
       "api": "http://zy.zcocc.com/api.php/provide/vod/at/xml",
-      "click": true,
-      "searchFilter": false
-    },
-    {
-      "id": 33,
-      "name": "麻瓜资源",
-      "api": "http://maguays.cc/api.php/provide/vod/at/xml/",
       "click": true,
       "searchFilter": false
     },
@@ -356,13 +342,6 @@
       "id": 51,
       "name": "605资源",
       "api": "http://www.605zy.co/inc/api.php",
-      "click": true,
-      "searchFilter": false
-    },
-    {
-      "id": 52,
-      "name": "首涂",
-      "api": "http://52tj.xyz/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": false
     },
