@@ -1132,12 +1132,6 @@
       "parseName": "解析啦",
       "parseUrl": "https://api.jiexi.la/?url=",
       "click": true
-    },
-        {
-      "id": 14,
-      "parseName": "98解析",
-      "parseUrl": "https://jx.youyitv.com/?url=",
-      "click": true
     }
   ],
   "searchApi": [
