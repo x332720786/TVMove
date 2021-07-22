@@ -10,6 +10,13 @@
       "searchFilter": false
     },
     {
+      "id": 2,
+      "name": "真不卡",
+      "api": "http://db.taijuwang.cc/api.php/provide/vod/at/xml",
+      "click": true,
+      "searchFilter": false
+    },
+    {
       "id": 3,
       "name": "红牛",
       "api": "http://www.hongniuzy.com/inc/api.php",
