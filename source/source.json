@@ -52,13 +52,6 @@
       "searchFilter": false
     },
     {
-      "id": 8,
-      "name": "零度资源",
-      "api": "https://zy.kuluni.cn/api.php/provide/vod/at/xml",
-      "click": true,
-      "searchFilter": false
-    },
-    {
       "id": 9,
       "name": "88资源",
       "api": "http://www.88zyw.net/inc/api.php",
@@ -87,6 +80,13 @@
       "searchFilter": false
     },
     {
+      "id": 13,
+      "name": "m3u8.tv",
+      "api": "http://www.zycaiji.net:7788/api.php/provide/vod/at/xml/",
+      "click": true,
+      "searchFilter": false
+    },
+    {
       "id": 14,
       "name": "柚子资源",
       "api": "http://tv.aitesucai.xyz/api.php/provide/vod/at/xml",
@@ -109,8 +109,8 @@
     },
     {
       "id": 17,
-      "name": "百度云2",
-      "api": "https://cj.apibdzy.com/inc/api.php",
+      "name": "605",
+      "api": "http://www.605zy.co/inc/api.php",
       "click": true,
       "searchFilter": false
     },
@@ -130,8 +130,8 @@
     },
     {
       "id": 20,
-      "name": "555",
-      "api": "https://www.o8tv.com/api.php/provide/vod/at/xml",
+      "name": "飘花电影网",
+      "api": "http://www.2mjtt.com/inc/api.php/provide/vod/at/xml/",
       "click": true,
       "searchFilter": false
     },
@@ -178,6 +178,13 @@
       "searchFilter": false
     },
     {
+      "id": 27,
+      "name": "猪猪影院",
+      "api": "https://www.zzyingyuan.com/api.php/provide/vod/at/xml/",
+      "click": true,
+      "searchFilter": false
+    },
+    {
       "id": 28,
       "name": "速搜资源",
       "api": "http://www.susouzy.com/api.php/provide/vod/at/xml/",
@@ -193,162 +200,64 @@
     },
     {
       "id": 30,
-      "name": "鲸鱼云",
-      "api": "http://zy.gazf.cn/api.php/provide/vod/at/xml/",
-      "click": true,
-      "searchFilter": false
-    },
-    {
-      "id": 31,
-      "name": "m3u8.tv",
-      "api": "http://www.zycaiji.net:7788/api.php/provide/vod/at/xml/",
-      "click": true,
-      "searchFilter": false
-    },
-    {
-      "id": 32,
-      "name": "明日资源",
-      "api": "http://zy.zcocc.com/api.php/provide/vod/at/xml",
-      "click": true,
-      "searchFilter": false
-    },
-    {
-      "id": 34,
       "name": "8090",
       "api": "http://zy.yilans.net:8090/api.php/provide/vod/at/xml/",
       "click": true,
       "searchFilter": false
     },
     {
-      "id": 35,
-      "name": "聚宇资源",
-      "api": "http://zy.ajuyu.com/api.php/provide/vod/at/xml",
-      "click": true,
-      "searchFilter": false
-    },
-    {
-      "id": 36,
-      "name": "哎呀APP",
-      "api": "http://www.aisvod.com/api.php/provide/vod/at/xml/",
-      "click": true,
-      "searchFilter": false
-    },
-    {
-      "id": 37,
+      "id": 31,
       "name": "侦探APP",
       "api": "http://ys.huangguay.com/api.php/provide/vod/at/xml/",
       "click": true,
       "searchFilter": false
     },
     {
-      "id": 38,
-      "name": "浊游APP",
-      "api": "http://ss47.zdzyw.co/api.php/provide/vod/at/xml/",
-      "click": true,
-      "searchFilter": false
-    },
-    {
-      "id": 39,
-      "name": "青蛙APP",
-      "api": "http://qwys8.tv/api.php/provide/vod/at/xml/",
-      "click": true,
-      "searchFilter": false
-    },
-    {
-      "id": 40,
+      "id": 32,
       "name": "云播APP",
       "api": "http://bxin.tv/api.php/provide/vod/at/xml/",
       "click": true,
       "searchFilter": false
     },
     {
-      "id": 41,
+      "id": 33,
       "name": "阿姨追剧APP",
       "api": "http://app.yiciyuan.me/api.php/provide/vod/at/xml/",
       "click": true,
       "searchFilter": false
     },
     {
-      "id": 42,
-      "name": "爱吧APP",
-      "api": "http://28kysapp.com/api.php/provide/vod/at/xml/",
-      "click": true,
-      "searchFilter": false
-    },
-    {
-      "id": 43,
+      "id": 34,
       "name": "播放呀APP",
       "api": "https://www.bofangya.com/api.php/provide/vod/at/xml/",
       "click": true,
       "searchFilter": false
     },
     {
-      "id": 44,
+      "id": 35,
       "name": "淘影",
       "api": "http://tv.4kvod.com/api.php/provide/vod/at/xml/",
       "click": true,
       "searchFilter": false
     },
     {
-      "id": 45,
+      "id": 36,
       "name": "玉米影视",
       "api": "http://yumi.video/api.php/provide/vod/at/xml/",
       "click": true,
       "searchFilter": false
     },
     {
-      "id": 46,
-      "name": "8K影视",
-      "api": "http://vip.8kvod.com:888/api.php/provide/vod/at/xml/",
-      "click": true,
-      "searchFilter": false
-    },
-    {
-      "id": 47,
-      "name": "穿梭资源",
-      "api": "http://ok.888hyk.com/api.php/provide/vod/at/xml",
-      "click": true,
-      "searchFilter": false
-    },
-    {
-      "id": 48,
-      "name": "今日影视",
-      "api": "http://mac.jin.345888.xyz/api.php/provide/vod/at/xml",
-      "click": true,
-      "searchFilter": false
-    },
-    {
-      "id": 49,
+      "id": 37,
       "name": "1886资源",
       "api": "http://cj.1886zy.co/inc/api.php",
       "click": true,
       "searchFilter": false
     },
     {
-      "id": 50,
-      "name": "飘花电影网",
-      "api": "http://www.2mjtt.com/inc/api.php/provide/vod/at/xml/",
-      "click": true,
-      "searchFilter": false
-    },
-    {
-      "id": 51,
-      "name": "605",
-      "api": "http://www.605zy.co/inc/api.php",
-      "click": true,
-      "searchFilter": false
-    },
-    {
-      "id": 53,
+      "id": 38,
       "name": "爪可可",
       "api": "https://www.zwcoco.com/api.php/provide/vod/at/xml/",
-      "click": true,
-      "searchFilter": false
-    },
-    {
-      "id": 54,
-      "name": "猪猪影院",
-      "api": "https://www.zzyingyuan.com/api.php/provide/vod/at/xml/",
       "click": true,
       "searchFilter": false
     }
@@ -1093,8 +1002,8 @@
     },
     {
       "id": 7,
-      "parseName": "猫6949",
-      "parseUrl": "https://mao.6949.cc/?url=",
+      "parseName": "星驰",
+      "parseUrl": "https://vip.cjys.top/?url=",
       "click": true
     },
     {
@@ -1149,6 +1058,12 @@
       "id": 16,
       "parseName": "98解析",
       "parseUrl": "https://jx.youyitv.com/?url=",
+      "click": true
+    },
+    {
+      "id": 17,
+      "parseName": "久看",
+      "parseUrl": "https://9kjx.com/?url=",
       "click": true
     }
   ],
