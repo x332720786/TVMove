@@ -254,9 +254,15 @@
       "click": true,
       "searchFilter": false
     },
-    
     {
-      "id": 32,
+      "id": 37,
+      "name": "北斗星",
+      "api": "https://v8.bdxzyapi.com/inc/api.php",
+      "click": true,
+      "searchFilter": false
+    },
+    {
+      "id": 38,
       "name": "玉米影视",
       "api": "http://yumi.video/api.php/provide/vod/at/xml/",
       "click": true,
