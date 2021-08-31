@@ -130,8 +130,8 @@
     },
     {
       "id": 20,
-      "name": "飘花电影网",
-      "api": "http://www.2mjtt.com/inc/api.php/provide/vod/at/xml/",
+      "name": "KK看剧",
+      "api": "http://www.kkkanju.com/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": false
     },
@@ -228,13 +228,20 @@
     },
     {
       "id": 34,
+      "name": "飘花电影网",
+      "api": "http://www.2mjtt.com/inc/api.php/provide/vod/at/xml/",
+      "click": true,
+      "searchFilter": false
+    },
+    {
+      "id": 35,
       "name": "爪可可",
       "api": "https://www.zwcoco.com/api.php/provide/vod/at/xml/",
       "click": true,
       "searchFilter": false
     },
     {
-      "id": 35,
+      "id": 36,
       "name": "赞片VIP",
       "api": "http://vip.1573i.com/api.php/provide/vod/at/xml/",
       "click": true,
