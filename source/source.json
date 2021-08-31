@@ -52,6 +52,13 @@
       "searchFilter": false
     },
     {
+      "id": 8,
+      "name": "神马影院",
+      "api": "http://www.zitv.cc/api.php/provide/vod/at/xml/",
+      "click": true,
+      "searchFilter": false
+    },
+    {
       "id": 9,
       "name": "88资源",
       "api": "http://www.88zyw.net/inc/api.php",
