@@ -123,8 +123,8 @@
     },
     {
       "id": 19,
-      "name": "赞片VIP",
-      "api": "http://vip.1573i.com/api.php/provide/vod/at/xml/",
+      "name": "电影牛",
+      "api": "https://www.dianyingn.com/api.php/provide/vod/at/xml/",
       "click": true,
       "searchFilter": false
     },
@@ -230,6 +230,13 @@
       "id": 34,
       "name": "爪可可",
       "api": "https://www.zwcoco.com/api.php/provide/vod/at/xml/",
+      "click": true,
+      "searchFilter": false
+    },
+    {
+      "id": 35,
+      "name": "赞片VIP",
+      "api": "http://vip.1573i.com/api.php/provide/vod/at/xml/",
       "click": true,
       "searchFilter": false
     }
