@@ -214,8 +214,8 @@
     },
     {
       "id": 32,
-      "name": "玉米影视",
-      "api": "http://yumi.video/api.php/provide/vod/at/xml/",
+      "name": "极品影视",
+      "api": "https://www.jpysvip.net/api.php/provide/vod/at/xml/",
       "click": true,
       "searchFilter": false
     },
@@ -244,6 +244,14 @@
       "id": 36,
       "name": "赞片VIP",
       "api": "http://vip.1573i.com/api.php/provide/vod/at/xml/",
+      "click": true,
+      "searchFilter": false
+    },
+    
+    {
+      "id": 32,
+      "name": "玉米影视",
+      "api": "http://yumi.video/api.php/provide/vod/at/xml/",
       "click": true,
       "searchFilter": false
     }
