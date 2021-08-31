@@ -39,8 +39,8 @@
     },
     {
       "id": 6,
-      "name": "萌果",
-      "api": "http://api.appearoo.top/api.php/provide/vod/at/xml",
+      "name": "新女神",
+      "api": "http://cms.tvbox543.com:80/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": false
     },
@@ -102,8 +102,8 @@
     },
     {
       "id": 16,
-      "name": "百度云1",
-      "api": "https://api.apibdzy.com/api.php/provide/vod/at/xml",
+      "name": "萌果",
+      "api": "http://api.appearoo.top/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": false
     },
@@ -116,8 +116,8 @@
     },
     {
       "id": 18,
-      "name": "百度云3",
-      "api": "https://m3u8.apibdzy.com/api.php/provide/vod/at/xml/",
+      "name": "小蜻蜓",
+      "api": "http://3ketv.com/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": false
     },
@@ -144,118 +144,90 @@
     },
     {
       "id": 22,
-      "name": "影派TV",
-      "api": "https://v.dtjos.com/api.php/provide/vod/at/xml",
-      "click": true,
-      "searchFilter": false
-    },
-    {
-      "id": 23,
-      "name": "流年影视",
-      "api": "http://www.liunianys.cn/api.php/provide/vod/at/xml/",
-      "click": true,
-      "searchFilter": false
-    },
-    {
-      "id": 24,
       "name": "追剧吧",
       "api": "http://www.huaxiab.com/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": false
     },
     {
-      "id": 25,
+      "id": 23,
       "name": "安逸影院",
       "api": "http://dy.51isu.com:11801/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": false
     },
     {
-      "id": 26,
+      "id": 24,
       "name": "好好资源",
       "api": "http://haohaozy.com/api.php/provide/vod/at/xml/",
       "click": true,
       "searchFilter": false
     },
     {
-      "id": 27,
-      "name": "猪猪影院",
-      "api": "https://www.zzyingyuan.com/api.php/provide/vod/at/xml/",
-      "click": true,
-      "searchFilter": false
-    },
-    {
-      "id": 28,
+      "id": 25,
       "name": "速搜资源",
       "api": "http://www.susouzy.com/api.php/provide/vod/at/xml/",
       "click": true,
       "searchFilter": false
     },
     {
-      "id": 29,
+      "id": 26,
       "name": "天堂资源",
       "api": "http://vipmv.cc/api.php/provide/vod/at/xml/",
       "click": true,
       "searchFilter": false
     },
     {
-      "id": 30,
+      "id": 27,
       "name": "8090",
       "api": "http://zy.yilans.net:8090/api.php/provide/vod/at/xml/",
       "click": true,
       "searchFilter": false
     },
     {
-      "id": 31,
+      "id": 28,
       "name": "侦探APP",
       "api": "http://ys.huangguay.com/api.php/provide/vod/at/xml/",
       "click": true,
       "searchFilter": false
     },
     {
-      "id": 32,
+      "id": 29,
       "name": "云播APP",
       "api": "http://bxin.tv/api.php/provide/vod/at/xml/",
       "click": true,
       "searchFilter": false
     },
     {
-      "id": 33,
-      "name": "阿姨追剧APP",
-      "api": "http://app.yiciyuan.me/api.php/provide/vod/at/xml/",
-      "click": true,
-      "searchFilter": false
-    },
-    {
-      "id": 34,
+      "id": 30,
       "name": "播放呀APP",
       "api": "https://www.bofangya.com/api.php/provide/vod/at/xml/",
       "click": true,
       "searchFilter": false
     },
     {
-      "id": 35,
+      "id": 31,
       "name": "淘影",
       "api": "http://tv.4kvod.com/api.php/provide/vod/at/xml/",
       "click": true,
       "searchFilter": false
     },
     {
-      "id": 36,
+      "id": 32,
       "name": "玉米影视",
       "api": "http://yumi.video/api.php/provide/vod/at/xml/",
       "click": true,
       "searchFilter": false
     },
     {
-      "id": 37,
+      "id": 33,
       "name": "1886资源",
       "api": "http://cj.1886zy.co/inc/api.php",
       "click": true,
       "searchFilter": false
     },
     {
-      "id": 38,
+      "id": 34,
       "name": "爪可可",
       "api": "https://www.zwcoco.com/api.php/provide/vod/at/xml/",
       "click": true,
