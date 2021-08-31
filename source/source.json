@@ -263,6 +263,13 @@
     },
     {
       "id": 38,
+      "name": "无尽",
+      "api": "https://api.wujinapi.com/api.php/provide/vod/from/wjm3u8/at/xml/",
+      "click": true,
+      "searchFilter": false
+    },
+    {
+      "id": 39,
       "name": "玉米影视",
       "api": "http://yumi.video/api.php/provide/vod/at/xml/",
       "click": true,
