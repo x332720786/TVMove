@@ -53,8 +53,8 @@
     },
     {
       "id": 8,
-      "name": "神马影院",
-      "api": "http://www.zitv.cc/api.php/provide/vod/at/xml/",
+      "name": "09TV",
+      "api": "https://09tv.top/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": false
     },
@@ -270,6 +270,13 @@
     },
     {
       "id": 39,
+      "name": "神马影院",
+      "api": "http://www.zitv.cc/api.php/provide/vod/at/xml/",
+      "click": true,
+      "searchFilter": false
+    },
+    {
+      "id": 40,
       "name": "玉米影视",
       "api": "http://yumi.video/api.php/provide/vod/at/xml/",
       "click": true,
