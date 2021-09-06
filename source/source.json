@@ -277,6 +277,20 @@
     },
     {
       "id": 40,
+      "name": "快播云",
+      "api": "http://www.kuaibozy.com/api.php/provide/vod/from/kbm3u8/at/xml/",
+      "click": true,
+      "searchFilter": false
+    },
+    {
+      "id": 41,
+      "name": "八戒云",
+      "api": "http://cj.bajiecaiji.com/inc/bjm3u8.php",
+      "click": true,
+      "searchFilter": false
+    },
+    {
+      "id": 42,
       "name": "玉米影视",
       "api": "http://yumi.video/api.php/provide/vod/at/xml/",
       "click": true,
