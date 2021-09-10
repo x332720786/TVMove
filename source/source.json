@@ -1100,6 +1100,30 @@
       "parseName": "parwix",
       "parseUrl": "https://egoist.parwix.com:4433/player/?url=",
       "click": true
+    },
+    {
+      "id": 18,
+      "parseName": "VIP.parwix",
+      "parseUrl": "https://vip.parwix.com:4433/player/?url=",
+      "click": true
+    },
+    {
+      "id": 19,
+      "parseName": "json.m3u8",
+      "parseUrl": "https://json.m3u8.tv:7788/json.php?url=",
+      "click": true
+    },
+    {
+      "id": 20,
+      "parseName": "vidjx",
+      "parseUrl": "https://www.vodjx.top/api/?key=XSQzk8KFK1I7FfPK5X&url=",
+      "click": true
+    },
+    {
+      "id": 21,
+      "parseName": "暮光",
+      "parseUrl": "https://muguang.mgtv.com.muguangys.com/jiexi.php?url=",
+      "click": true
     }
   ],
   "searchApi": [
