@@ -998,23 +998,23 @@
       ]
     }
   ],
-  "prase": [
+  "prase": [   
     {
       "id": 1,
+      "parseName": "月亮云",
+      "parseUrl": "http://api.yueliangjx.com/?url=",
+      "click": true
+    },
+    {
+      "id": 2,
       "parseName": "VIP.parwix",
       "parseUrl": "https://vip.parwix.com:4433/player/?url=",
       "click": true
     },
     {
-      "id": 2,
+      "id": 3,
       "parseName": "M3U8.tv",
       "parseUrl": "https://jx.m3u8.tv/jiexi/?url=",
-      "click": true
-    },   
-    {
-      "id": 3,
-      "parseName": "月亮云",
-      "parseUrl": "http://api.yueliangjx.com/?url=",
       "click": true
     },
     {
