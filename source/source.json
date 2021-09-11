@@ -1007,8 +1007,8 @@
     },
     {
       "id": 2,
-      "parseName": "月亮云",
-      "parseUrl": "http://api.yueliangjx.com/?url=",
+      "parseName": "虾米",
+      "parseUrl": "https://jx.xmflv.com/?url=",
       "click": true
     },
     {
@@ -1037,8 +1037,8 @@
     },
     {
       "id": 7,
-      "parseName": "虾米",
-      "parseUrl": "https://jx.xmflv.com/?url=",
+      "parseName": "ok",
+      "parseUrl": "https://okjx.cc?url=",
       "click": true
     },
     {
@@ -1097,8 +1097,8 @@
     },
     {
       "id": 17,
-      "parseName": "ok",
-      "parseUrl": "https://okjx.cc?url=",
+      "parseName": "月亮云",
+      "parseUrl": "http://api.yueliangjx.com/?url=",
       "click": true
     }
   ],
