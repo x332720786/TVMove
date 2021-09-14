@@ -1007,38 +1007,38 @@
     },
     {
       "id": 2,
+      "parseName": "ok",
+      "parseUrl": "https://okjx.cc?url=",
+      "click": true
+    },
+    {
+      "id": 3,
       "parseName": "VIP.parwix",
       "parseUrl": "https://vip.parwix.com:4433/player/?url=",
       "click": true
     },
     {
-      "id": 3,
+      "id": 4,
       "parseName": "虾米",
       "parseUrl": "https://jx.xmflv.com/?url=",
       "click": true
     },
     {
-      "id": 4,
+      "id": 5,
       "parseName": "M3U8.tv",
       "parseUrl": "https://jx.m3u8.tv/jiexi/?url=",
       "click": true
     },
     {
-      "id": 5,
+      "id": 6,
       "parseName": "迪奥",
       "parseUrl": "https://123.1dior.cn/?url=",
       "click": true
     },
     {
-      "id": 6,
+      "id": 7,
       "parseName": "星驰",
       "parseUrl": "https://vip.cjys.top/?url=",
-      "click": true
-    },
-    {
-      "id": 7,
-      "parseName": "ok",
-      "parseUrl": "https://okjx.cc?url=",
       "click": true
     },
     {
