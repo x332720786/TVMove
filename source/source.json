@@ -987,26 +987,26 @@
   "prase": [
     {
       "id": 1,
-      "parseName": "ok",
-      "parseUrl": "https://okjx.cc?url=",
-      "click": true
-    },
-    {
-      "id": 2,
       "parseName": "VIP.parwix",
       "parseUrl": "https://vip.parwix.com:4433/player/?url=",
       "click": true
     },
     {
-      "id": 3,
+      "id": 2,
       "parseName": "月亮云",
       "parseUrl": "https://vip.jianjians.com/?url=",
       "click": true
     },
     {
-      "id": 4,
+      "id": 3,
       "parseName": "虾米",
       "parseUrl": "https://jx.xmflv.com/?url=",
+      "click": true
+    },
+    {
+      "id": 4,
+      "parseName": "ok",
+      "parseUrl": "https://okjx.cc?url=",
       "click": true
     },
     {
