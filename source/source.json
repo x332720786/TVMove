@@ -1086,7 +1086,7 @@
       "parseName": "全能",
       "parseUrl": "http://video.isyour.love/player/getplayer?url=",
       "click": true
-    },
+    }
   ],
   "searchApi": [
     {
