@@ -25,8 +25,8 @@
     },
     {
       "id": 4,
-      "name": "饭团",
-      "api": "http://fantuan.wkfile.com/api.php/provide/vod/at/xml",
+      "name": "嘀哩嘀哩",
+      "api": "http://api.diliktv.xyz/api.php/provide/vod/?ac=list",
       "click": true,
       "searchFilter": false
     },
@@ -164,6 +164,13 @@
       "searchFilter": false
     },
     {
+      "id": 24,
+      "name": "饭团",
+      "api": "http://fantuan.wkfile.com/api.php/provide/vod/at/xml",
+      "click": true,
+      "searchFilter": false
+    },
+    {
       "id": 25,
       "name": "竹嘎蓝光",
       "api": "http://m.ycccyk.cn/api.php/provide/vod/at/xml",
@@ -242,8 +249,8 @@
     },
     {
       "id": 36,
-      "name": "火星2048",
-      "api": "https://www.hx2048.com/api.php/provide/vod/at/xml",
+      "name": "兔子窝",
+      "api": "http://cj.huimaojia.com:12345/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": false
     },
@@ -279,6 +286,55 @@
       "id": 41,
       "name": "任我云",
       "api": "https://www.renwoyun.cn/api.php/provide/vod/at/xml",
+      "click": true,
+      "searchFilter": false
+    },
+    {
+      "id": 42,
+      "name": "火星2048",
+      "api": "https://www.hx2048.com/api.php/provide/vod/at/xml",
+      "click": true,
+      "searchFilter": false
+    },
+    {
+      "id": 43,
+      "name": "348",
+      "api": "http://155.248.212.90/348z.php",
+      "click": true,
+      "searchFilter": false
+    },
+    {
+      "id": 44,
+      "name": "555",
+      "api": "http://155.248.212.90/555.php",
+      "click": true,
+      "searchFilter": false
+    },
+    {
+      "id": 45,
+      "name": "虾米",
+      "api": "https://zy.xmflv.vip/api.php/provide/vod/at/xml",
+      "click": true,
+      "searchFilter": false
+    },
+    {
+      "id": 46,
+      "name": "人人迷",
+      "api": "https://kuu.renrenmi.cc/api.php/provide/vod/at/xml",
+      "click": true,
+      "searchFilter": false
+    },
+    {
+      "id": 47,
+      "name": "蜗牛看鸭",
+      "api": "http://snailkya.xyz/api.php/provide/vod/at/xml",
+      "click": true,
+      "searchFilter": false
+    },
+    {
+      "id": 48,
+      "name": "BL解析",
+      "api": "https://bljiex.com/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": false
     }
