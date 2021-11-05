@@ -337,6 +337,20 @@
       "api": "https://bljiex.com/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": false
+    },
+    {
+      "id": 49,
+      "name": "椰子",
+      "api": "https://zy.gbxy.net.cn/api.php/provide/vod/at/xml",
+      "click": true,
+      "searchFilter": false
+    },
+    {
+      "id": 50,
+      "name": "B麒麟",
+      "api": "http://www.qilinzyz.com/api.php/provide/vod/at/xml",
+      "click": true,
+      "searchFilter": false
     }
   ],
   "live": [
