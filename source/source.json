@@ -164,20 +164,6 @@
       "searchFilter": false
     },
     {
-      "id": 24,
-      "name": "饭团",
-      "api": "http://fantuan.wkfile.com/api.php/provide/vod/at/xml",
-      "click": true,
-      "searchFilter": false
-    },
-    {
-      "id": 25,
-      "name": "竹嘎蓝光",
-      "api": "http://m.ycccyk.cn/api.php/provide/vod/at/xml",
-      "click": true,
-      "searchFilter": false
-    },
-    {
       "id": 26,
       "name": "天堂资源",
       "api": "http://vipmv.cc/api.php/provide/vod/at/xml/",
@@ -199,30 +185,9 @@
       "searchFilter": false
     },
     {
-      "id": 29,
-      "name": "爱看影视",
-      "api": "http://tvcms.ikan6.vip/api.php/provide/vod/at/xml/",
-      "click": true,
-      "searchFilter": false
-    },
-    {
-      "id": 30,
-      "name": "99美剧",
-      "api": "https://www.999meiju.com/api.php/provide/vod/at/xml",
-      "click": true,
-      "searchFilter": false
-    },
-    {
       "id": 31,
       "name": "淘影TV",
       "api": "http://tv.4kvod.com/api.php/provide/vod/at/xml/",
-      "click": true,
-      "searchFilter": false
-    },
-    {
-      "id": 32,
-      "name": "极品影视",
-      "api": "https://www.jpysvip.net/api.php/provide/vod/at/xml/",
       "click": true,
       "searchFilter": false
     },
@@ -269,34 +234,6 @@
       "searchFilter": false
     },
     {
-      "id": 39,
-      "name": "快播云",
-      "api": "http://www.kuaibozy.com/api.php/provide/vod/from/kbm3u8/at/xml/",
-      "click": true,
-      "searchFilter": false
-    },
-    {
-      "id": 40,
-      "name": "八戒云",
-      "api": "http://cj.bajiecaiji.com/inc/bjm3u8.php",
-      "click": true,
-      "searchFilter": false
-    },
-    {
-      "id": 41,
-      "name": "任我云",
-      "api": "https://www.renwoyun.cn/api.php/provide/vod/at/xml",
-      "click": true,
-      "searchFilter": false
-    },
-    {
-      "id": 42,
-      "name": "火星2048",
-      "api": "https://www.hx2048.com/api.php/provide/vod/at/xml",
-      "click": true,
-      "searchFilter": false
-    },
-    {
       "id": 43,
       "name": "348",
       "api": "http://155.248.212.90/348z.php",
@@ -318,20 +255,6 @@
       "searchFilter": false
     },
     {
-      "id": 46,
-      "name": "人人迷",
-      "api": "https://kuu.renrenmi.cc/api.php/provide/vod/at/xml",
-      "click": true,
-      "searchFilter": false
-    },
-    {
-      "id": 47,
-      "name": "蜗牛看鸭",
-      "api": "http://snailkya.xyz/api.php/provide/vod/at/xml",
-      "click": true,
-      "searchFilter": false
-    },
-    {
       "id": 48,
       "name": "BL解析",
       "api": "https://bljiex.com/api.php/provide/vod/at/xml",
@@ -347,7 +270,7 @@
     },
     {
       "id": 50,
-      "name": "B麒麟",
+      "name": "麒麟",
       "api": "http://www.qilinzyz.com/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": false
@@ -1057,8 +980,8 @@
   "prase": [
     {
       "id": 1,
-      "parseName": "VIP.parwix",
-      "parseUrl": "https://vip.parwix.com:4433/player/?url=",
+      "parseName": "江湖",
+      "parseUrl": "https://api.jhdyw.vip/?url=",
       "click": true
     },
     {
@@ -1069,14 +992,14 @@
     },
     {
       "id": 3,
-      "parseName": "虾米",
-      "parseUrl": "https://jx.xmflv.com/?url=",
+      "parseName": "VIP.parwix",
+      "parseUrl": "https://vip.parwix.com:4433/player/?url=",
       "click": true
     },
     {
       "id": 4,
-      "parseName": "M3U8.tv",
-      "parseUrl": "https://jx.m3u8.tv/jiexi/?url=",
+      "parseName": "虾米",
+      "parseUrl": "https://jx.xmflv.com/?url=",
       "click": true
     },
     {
@@ -1087,8 +1010,8 @@
     },
     {
       "id": 6,
-      "parseName": "星驰",
-      "parseUrl": "https://vip.cjys.top/?url=",
+      "parseName": "M3U8.tv",
+      "parseUrl": "https://jx.m3u8.tv/jiexi/?url=",
       "click": true
     },
     {
@@ -1099,62 +1022,26 @@
     },
     {
       "id": 8,
-      "parseName": "云解析",
-      "parseUrl": "https://jx.mw0.cc/?url=",
-      "click": true
-    },
-    {
-      "id": 9,
       "parseName": "老板解析",
       "parseUrl": "https://vip.laobandq.com/jiexi.php?url=",
       "click": true
     },
     {
+      "id": 9,
+      "parseName": "云解析",
+      "parseUrl": "https://jx.mw0.cc/?url=",
+      "click": true
+    },
+    {
       "id": 10,
-      "parseName": "尊享",
-      "parseUrl": "https://player.maqq.cn/?url=",
-      "click": true
-    },
-    {
-      "id": 11,
-      "parseName": "cuan_B站专用",
-      "parseUrl": "https://www.cuan.la/m3u8.php?url=",
-      "click": true
-    },
-    {
-      "id": 12,
       "parseName": "playm3u8",
       "parseUrl": "https://www.playm3u8.cn/jiexi.php?url=",
       "click": true
     },
     {
-      "id": 13,
+      "id": 11,
       "parseName": "七彩",
       "parseUrl": "https://www.xymav.com/?url=",
-      "click": true
-    },
-    {
-      "id": 14,
-      "parseName": "解析啦",
-      "parseUrl": "https://api.jiexi.la/?url=",
-      "click": true
-    },
-    {
-      "id": 15,
-      "parseName": "98解析",
-      "parseUrl": "https://jx.youyitv.com/?url=",
-      "click": true
-    },
-    {
-      "id": 16,
-      "parseName": "久看",
-      "parseUrl": "https://9kjx.com/?url=",
-      "click": true
-    },
-    {
-      "id": 17,
-      "parseName": "全能",
-      "parseUrl": "http://video.isyour.love/player/getplayer?url=",
       "click": true
     }
   ],
@@ -1172,7 +1059,7 @@
       "api": "https://s.video.qq.com/smartbox?plat=2&ver=0&num=10&otype=json&query=%s"
     }
   ],
-  "adFilter": [
+  "adFilter": [ 
     "mimg.0c1q0l.cn",
     "www.googletagmanager.com",
     "www.google-analytics.com",
