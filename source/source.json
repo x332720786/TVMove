@@ -204,6 +204,13 @@
       "api": "http://api.dbyunzy.com/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": false
+    },
+    {
+      "id": ,
+      "name": "速影",
+      "api": "https://xn--128-zm3fr26s.xyz/inc/api.php",
+      "click": true,
+      "searchFilter": false
     }
   ],
   "live": [
