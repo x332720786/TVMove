@@ -206,9 +206,23 @@
       "searchFilter": false
     },
     {
-      "id": ,
+      "id": 30,
       "name": "速影",
       "api": "https://xn--128-zm3fr26s.xyz/inc/api.php",
+      "click": true,
+      "searchFilter": false
+    },
+    {
+      "id": 31,
+      "name": "灵芝源",
+      "api": "https://app.linzhiyuan.xyz/api.php/provide/vod/at/xml",
+      "click": true,
+      "searchFilter": false
+    },
+    {
+      "id": 32,
+      "name": "555",
+      "api": "http://www.zzrhgg.com/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": false
     }
