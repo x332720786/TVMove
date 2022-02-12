@@ -197,6 +197,13 @@
       "api": "http://www.qilinzyz.com/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": false
+    },
+    {
+      "id": 29,
+      "name": "独播库",
+      "api": "http://api.dbyunzy.com/api.php/provide/vod/at/xml",
+      "click": true,
+      "searchFilter": false
     }
   ],
   "live": [
