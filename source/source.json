@@ -928,56 +928,20 @@
     },
     {
       "id": 4,
-      "parseName": "迪奥",
-      "parseUrl": "https://123.1dior.cn/?url=",
-      "click": true
-    },
-    {
-      "id": 5,
       "parseName": "M3U8.tv",
       "parseUrl": "https://jx.m3u8.tv/jiexi/?url=",
       "click": true
     },
     {
-      "id": 6,
+      "id": 5,
       "parseName": "全民解析",
       "parseUrl": "http://jx.quanmingjiexi.com/?url=",
       "click": true
     },
     {
-      "id": 7,
-      "parseName": "老板解析",
-      "parseUrl": "https://vip.laobandq.com/jiexi.php?url=",
-      "click": true
-    },
-    {
-      "id": 8,
+      "id": 6,
       "parseName": "云解析",
       "parseUrl": "https://jx.mw0.cc/?url=",
-      "click": true
-    },
-    {
-      "id": 9,
-      "parseName": "playm3u8",
-      "parseUrl": "https://www.playm3u8.cn/jiexi.php?url=",
-      "click": true
-    },
-    {
-      "id": 10,
-      "parseName": "七彩",
-      "parseUrl": "https://www.xymav.com/?url=",
-      "click": true
-    },
-    {
-      "id": 11,
-      "parseName": "PP",
-      "parseUrl": "https://jx.ppflv.com/?url=",
-      "click": true
-    },
-    {
-      "id": 12,
-      "parseName": "蓝光",
-      "parseUrl": "https://api.m3u8.tv:5678/home/api?type=ys&uid=1931000&key=gktuvyzABEORSYZ135&url=",
       "click": true
     }
   ],
