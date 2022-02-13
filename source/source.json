@@ -974,6 +974,18 @@
       "parseName": "七彩",
       "parseUrl": "https://www.xymav.com/?url=",
       "click": true
+    },
+    {
+      "id": 11,
+      "parseName": "PP",
+      "parseUrl": "https://jx.ppflv.com/?url=",
+      "click": true
+    },
+    {
+      "id": 12,
+      "parseName": "蓝光",
+      "parseUrl": "https://api.m3u8.tv:5678/home/api?type=ys&uid=1931000&key=gktuvyzABEORSYZ135&url=",
+      "click": true
     }
   ],
   "searchApi": [
