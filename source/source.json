@@ -74,8 +74,8 @@
     },
     {
       "id": 11,
-      "name": "北斗星",
-      "api": "https://v8.bdxzyapi.com/inc/api.php",
+      "name": "兔子窝",
+      "api": "http://cj.huimaojia.com:12345/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": false
     },
@@ -158,55 +158,48 @@
     },
     {
       "id": 23,
-      "name": "兔子窝",
-      "api": "http://cj.huimaojia.com:12345/api.php/provide/vod/at/xml",
-      "click": true,
-      "searchFilter": false
-    },
-    {
-      "id": 25,
       "name": "BL解析",
       "api": "https://bljiex.com/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": false
     },
     {
-      "id": 26,
+      "id": 24,
       "name": "椰子",
       "api": "https://zy.gbxy.net.cn/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": false
     },
     {
-      "id": 27,
+      "id": 25,
       "name": "麒麟",
       "api": "http://www.qilinzyz.com/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": false
     },
     {
-      "id": 28,
+      "id": 26,
       "name": "独播库",
       "api": "http://api.dbyunzy.com/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": false
     },
     {
-      "id": 29,
+      "id": 27,
       "name": "速影",
       "api": "https://xn--128-zm3fr26s.xyz/inc/api.php",
       "click": true,
       "searchFilter": false
     },
     {
-      "id": 30,
+      "id": 28,
       "name": "灵芝源",
       "api": "https://app.linzhiyuan.xyz/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": false
     },
     {
-      "id": 31,
+      "id": 29,
       "name": "555",
       "api": "http://www.zzrhgg.com/api.php/provide/vod/at/xml",
       "click": true,
