@@ -225,6 +225,13 @@
       "api": "https://www.lovedan.net/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": false
+    },
+    {
+      "id": 33,
+      "name": "MBO",
+      "api": "https://www.mbomovie.com/api.php/provide/vod/at/xml",
+      "click": true,
+      "searchFilter": false
     }
   ],
   "live": [
@@ -931,14 +938,14 @@
   "prase": [
     {
       "id": 1,
-      "parseName": "ok",
-      "parseUrl": "https://okjx.cc?url=",
+      "parseName": "parwix",
+      "parseUrl": "https://vip.parwix.com:4433/player/?url=",
       "click": true
     },
     {
       "id": 2,
-      "parseName": "VIP.parwix",
-      "parseUrl": "https://vip.parwix.com:4433/player/?url=",
+      "parseName": "ok",
+      "parseUrl": "https://okjx.cc?url=",
       "click": true
     },
     {
@@ -955,12 +962,18 @@
     },
     {
       "id": 5,
+      "parseName": "大亨解析",
+      "parseUrl": "http://jx.13tv.top/?url=",
+      "click": true
+    },
+    {
+      "id": 6,
       "parseName": "全民解析",
       "parseUrl": "http://jx.quanmingjiexi.com/?url=",
       "click": true
     },
     {
-      "id": 6,
+      "id": 7,
       "parseName": "云解析",
       "parseUrl": "https://jx.mw0.cc/?url=",
       "click": true
