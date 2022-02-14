@@ -179,36 +179,36 @@
     },
     {
       "id": 26,
-      "name": "独播库",
-      "api": "http://api.dbyunzy.com/api.php/provide/vod/at/xml",
-      "click": true,
-      "searchFilter": false
-    },
-    {
-      "id": 27,
       "name": "速影",
       "api": "https://xn--128-zm3fr26s.xyz/inc/api.php",
       "click": true,
       "searchFilter": false
     },
     {
-      "id": 28,
+      "id": 27,
       "name": "灵芝源",
       "api": "https://app.linzhiyuan.xyz/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": false
     },
     {
-      "id": 29,
+      "id": 28,
       "name": "555",
       "api": "http://www.zzrhgg.com/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": false
     },
     {
-      "id": 30,
+      "id": 39,
       "name": "阿里",
       "api": "http://www.feishi.ltd/api.php/provide/vod/at/xml",
+      "click": true,
+      "searchFilter": false
+    },
+    {
+      "id": 30,
+      "name": "星一",
+      "api": "https://gcku.suboyun.vip/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": false
     },
