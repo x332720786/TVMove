@@ -151,8 +151,8 @@
     },
     {
       "id": 22,
-      "name": "爪可可",
-      "api": "https://www.zwcoco.com/api.php/provide/vod/at/xml/",
+      "name": "飞速",
+      "api": "https://m3u8.feisuzyapi.com/vod/at/xml",
       "click": true,
       "searchFilter": false
     },
@@ -230,6 +230,13 @@
       "id": 33,
       "name": "MBO",
       "api": "https://www.mbomovie.com/api.php/provide/vod/at/xml",
+      "click": true,
+      "searchFilter": false
+    },
+    {
+      "id": 34,
+      "name": "爪可可",
+      "api": "https://www.zwcoco.com/api.php/provide/vod/at/xml/",
       "click": true,
       "searchFilter": false
     }
