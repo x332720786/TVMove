@@ -130,8 +130,8 @@
     },
     {
       "id": 19,
-      "name": "柚子资源",
-      "api": "http://tv.aitesucai.xyz/api.php/provide/vod/at/xml",
+      "name": "千寻",
+      "api": "http://wy.dqyhg.cn/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": false
     },
@@ -202,6 +202,20 @@
       "id": 29,
       "name": "555",
       "api": "http://www.zzrhgg.com/api.php/provide/vod/at/xml",
+      "click": true,
+      "searchFilter": false
+    },
+    {
+      "id": 30,
+      "name": "阿里",
+      "api": "http://www.feishi.ltd/api.php/provide/vod/at/xml",
+      "click": true,
+      "searchFilter": false
+    },
+    {
+      "id": 31,
+      "name": "柚子资源",
+      "api": "http://tv.aitesucai.xyz/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": false
     }
