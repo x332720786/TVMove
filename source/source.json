@@ -186,57 +186,57 @@
     },
     {
       "id": 27,
-      "name": "灵芝源",
-      "api": "https://app.linzhiyuan.xyz/api.php/provide/vod/at/xml",
-      "click": true,
-      "searchFilter": false
-    },
-    {
-      "id": 28,
       "name": "555",
       "api": "http://www.zzrhgg.com/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": false
     },
     {
-      "id": 39,
+      "id": 28,
       "name": "阿里",
       "api": "http://www.feishi.ltd/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": false
     },
     {
-      "id": 30,
+      "id": 29,
       "name": "星一",
       "api": "https://gcku.suboyun.vip/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": false
     },
     {
-      "id": 31,
+      "id": 30,
       "name": "柚子资源",
       "api": "http://tv.aitesucai.xyz/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": false
     },
     {
-      "id": 32,
+      "id": 31,
       "name": "艾旦",
       "api": "https://www.lovedan.net/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": false
     },
     {
-      "id": 33,
+      "id": 32,
       "name": "MBO",
       "api": "https://www.mbomovie.com/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": false
     },
     {
-      "id": 34,
+      "id": 33,
       "name": "爪可可",
       "api": "https://www.zwcoco.com/api.php/provide/vod/at/xml/",
+      "click": true,
+      "searchFilter": false
+    },
+    {
+      "id": 34,
+      "name": "乐播",
+      "api": "https://www.lebo.la/api.php/provide/vod/at/xml/",
       "click": true,
       "searchFilter": false
     }
