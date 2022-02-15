@@ -975,12 +975,18 @@
     },
     {
       "id": 6,
+      "parseName": "电影盒子",
+      "parseUrl": "https://jx5.178du.com/p1/index.php?url=",
+      "click": true
+    },
+    {
+      "id": 7,
       "parseName": "全民解析",
       "parseUrl": "http://jx.quanmingjiexi.com/?url=",
       "click": true
     },
     {
-      "id": 7,
+      "id": 8,
       "parseName": "云解析",
       "parseUrl": "https://jx.mw0.cc/?url=",
       "click": true
