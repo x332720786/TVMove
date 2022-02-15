@@ -46,8 +46,8 @@
     },
     {
       "id": 7,
-      "name": "星辰解析",
-      "api": "http://www.zycaiji.net:7788/api.php/provide/vod/at/xml/",
+      "name": "PZ影视",
+      "api": "https://puz.pub/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": false
     },
@@ -237,6 +237,13 @@
       "id": 34,
       "name": "乐播",
       "api": "https://www.lebo.la/api.php/provide/vod/at/xml/",
+      "click": true,
+      "searchFilter": false
+    },
+    {
+      "id": 35,
+      "name": "星辰解析",
+      "api": "http://www.zycaiji.net:7788/api.php/provide/vod/at/xml/",
       "click": true,
       "searchFilter": false
     }
