@@ -200,7 +200,7 @@
     },
     {
       "id": 29,
-      "name": "星一",
+      "name": "速播",
       "api": "https://gcku.suboyun.vip/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": false
