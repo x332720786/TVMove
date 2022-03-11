@@ -246,6 +246,13 @@
       "api": "http://www.zycaiji.net:7788/api.php/provide/vod/at/xml/",
       "click": true,
       "searchFilter": false
+    },
+    {
+      "id": 36,
+      "name": "随便看",
+      "api": "https://www.sbkdy.com/inc/api.php",
+      "click": true,
+      "searchFilter": false
     }
   ],
   "live": [
