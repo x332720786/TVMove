@@ -959,32 +959,32 @@
   "prase": [
     {
       "id": 1,
-      "parseName": "段友",
-      "parseUrl": "https://shangjihuoke.com/CL4K/?url=",
-      "click": true
-    },
-    {
-      "id": 2,
-      "parseName": "人人迷",
-      "parseUrl": "https://jx.blbo.cc:4433/?url=",
-      "click": true
-    },
-    {
-      "id": 3,
-      "parseName": "m2090",
-      "parseUrl": "https://m2090.com/?url=",
-      "click": true
-    },
-    {
-      "id": 4,
       "parseName": "parwix",
       "parseUrl": "https://vip.parwix.com:4433/player/?url=",
       "click": true
     },
     {
-      "id": 5,
+      "id": 2,
       "parseName": "ok",
       "parseUrl": "https://okjx.cc?url=",
+      "click": true
+    },
+    {
+      "id": 3,
+      "parseName": "段友",
+      "parseUrl": "https://shangjihuoke.com/CL4K/?url=",
+      "click": true
+    },
+    {
+      "id": 4,
+      "parseName": "人人迷",
+      "parseUrl": "https://jx.blbo.cc:4433/?url=",
+      "click": true
+    },
+    {
+      "id": 5,
+      "parseName": "m2090",
+      "parseUrl": "https://m2090.com/?url=",
       "click": true
     },
     {
