@@ -382,72 +382,14 @@
       "id": 1,
       "parseName": "parwix",
       "parseUrl": "https://vip.parwix.com:4433/player/?url=",
+      "parseFlag":["iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu"],
       "click": true
     },
     {
-      "id": 2,
-      "parseName": "ok",
-      "parseUrl": "https://okjx.cc?url=",
-      "click": true
-    },
-    {
-      "id": 3,
-      "parseName": "虾米",
-      "parseUrl": "https://jx.xmflv.com/?url=",
-      "click": true
-    },
-    {
-      "id": 4,
-      "parseName": "M3U8.tv",
-      "parseUrl": "https://jx.m3u8.tv/jiexi/?url=",
-      "click": true
-    },
-    {
-      "id": 5,
+      "id": ,
       "parseName": "片库",
       "parseUrl": "https://www.newsaas.cn/jx/?url=",
-      "click": true
-    },
-    {
-      "id": 6,
-      "parseName": "大亨解析",
-      "parseUrl": "http://jx.13tv.top/?url=",
-      "click": true
-    },
-    {
-      "id": 7,
-      "parseName": "play",
-      "parseUrl": "https://www.playm3u8.cn/jiexi.php?url=",
-      "click": true
-    },
-    {
-      "id": 8,
-      "parseName": "云解析",
-      "parseUrl": "https://jx.mw0.cc/?url=",
-      "click": true
-    },
-    {
-      "id": 9,
-      "parseName": "电影盒子",
-      "parseUrl": "https://jx5.178du.com/p1/index.php?url=",
-      "click": true
-    },
-    {
-      "id": 10,
-      "parseName": "段友",
-      "parseUrl": "https://shangjihuoke.com/CL4K/?url=",
-      "click": true
-    },
-    {
-      "id": 11,
-      "parseName": "CH8",
-      "parseUrl": "https://www.chok8.com//jx//?url=",
-      "click": true
-    },
-    {
-      "id": 12,
-      "parseName": "老板",
-      "parseUrl": "https://vip.laobandq.com/jiexi.php?url=",
+      "parseFlag":["youku","qq","mgtv","bilibili"],
       "click": true
     }
   ],
