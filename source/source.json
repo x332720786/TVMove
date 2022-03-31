@@ -11,14 +11,14 @@
     },
     {
       "id": 2,
-      "name": "闪电",
+      "name": "闪电资源",
       "api": "https://sdzyapi.com/api.php/provide/vod/at/xml/",
       "click": true,
       "searchFilter": false
     },
     {
       "id": 3,
-      "name": "速更",
+      "name": "速更资源",
       "api": "https://sugengzy.cn/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": false
@@ -81,7 +81,7 @@
     },
     {
       "id": 12,
-      "name": "无尽",
+      "name": "无尽资源",
       "api": "https://api.wujinapi.com/api.php/provide/vod/from/wjm3u8/at/xml/",
       "click": true,
       "searchFilter": false
@@ -95,7 +95,7 @@
     },
     {
       "id": 14,
-      "name": "605",
+      "name": "605资源",
       "api": "http://www.605zy.co/inc/api.php",
       "click": true,
       "searchFilter": false
@@ -151,7 +151,7 @@
     },
     {
       "id": 22,
-      "name": "飞速",
+      "name": "飞速资源",
       "api": "https://m3u8.feisuzyapi.com/vod/at/xml",
       "click": true,
       "searchFilter": false
@@ -165,14 +165,14 @@
     },
     {
       "id": 24,
-      "name": "椰子",
+      "name": "椰子解析",
       "api": "https://zy.gbxy.net.cn/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": false
     },
     {
       "id": 25,
-      "name": "麒麟",
+      "name": "麒麟解析",
       "api": "http://www.qilinzyz.com/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": false
@@ -193,14 +193,14 @@
     },
     {
       "id": 28,
-      "name": "阿里",
+      "name": "阿里解析",
       "api": "http://www.feishi.ltd/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": false
     },
     {
       "id": 29,
-      "name": "速播解",
+      "name": "速播解析",
       "api": "https://gcku.suboyun.vip/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": false
@@ -235,7 +235,7 @@
     },
     {
       "id": 34,
-      "name": "乐播",
+      "name": "乐播资源",
       "api": "https://www.lebo.la/api.php/provide/vod/at/xml/",
       "click": true,
       "searchFilter": false
