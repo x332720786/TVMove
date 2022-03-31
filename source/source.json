@@ -380,14 +380,14 @@
   "prase": [
     {
       "id": 1,
-      "parseName": "parwix",
-      "parseUrl": "https://vip.parwix.com:4433/player/?url=",
+      "parseName": "ok",
+      "parseUrl": "https://okjx.cc?url=",
       "click": true
     },
     {
       "id": 2,
-      "parseName": "ok",
-      "parseUrl": "https://okjx.cc?url=",
+      "parseName": "parwix",
+      "parseUrl": "https://vip.parwix.com:4433/player/?url=",
       "click": true
     },
     {
