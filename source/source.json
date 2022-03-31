@@ -403,8 +403,8 @@
     },
     {
       "id": 6,
-      "parseName": "片库",
-      "parseUrl": "https://www.newsaas.cn/jx/?url=",
+      "parseName": "虾米",
+      "parseUrl": "https://jx.xmflv.com/?url=",
       "click": true
     },
     {
@@ -421,14 +421,14 @@
     },
     {
       "id": 9,
-      "parseName": "play",
-      "parseUrl": "https://www.playm3u8.cn/jiexi.php?url=",
+      "parseName": "片库",
+      "parseUrl": "https://www.newsaas.cn/jx/?url=",
       "click": true
     },
     {
       "id": 10,
-      "parseName": "虾米",
-      "parseUrl": "https://jx.xmflv.com/?url=",
+      "parseName": "play",
+      "parseUrl": "https://www.playm3u8.cn/jiexi.php?url=",
       "click": true
     },
     {
