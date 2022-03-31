@@ -433,12 +433,18 @@
     },
     {
       "id": 11,
+      "parseName": "段友",
+      "parseUrl": "https://shangjihuoke.com/CL4K/?url=",
+      "click": true
+    },
+    {
+      "id": 12,
       "parseName": "CH8",
       "parseUrl": "https://www.chok8.com//jx//?url=",
       "click": true
     },
     {
-      "id": 12,
+      "id": 13,
       "parseName": "老板",
       "parseUrl": "https://vip.laobandq.com/jiexi.php?url=",
       "click": true
