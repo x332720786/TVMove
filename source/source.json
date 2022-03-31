@@ -67,22 +67,22 @@
     },
     {
       "id": 10,
-      "name": "兔子窝",
-      "api": "http://cj.huimaojia.com:12345/api.php/provide/vod/at/xml",
-      "click": true,
-      "searchFilter": false
-    },
-    {
-      "id": 11,
       "name": "天空资源",
       "api": "http://api.tiankongapi.com/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": false
     },
     {
-      "id": 12,
+      "id": 11,
       "name": "605资源",
       "api": "http://www.605zy.co/inc/api.php",
+      "click": true,
+      "searchFilter": false
+    },
+    {
+      "id": 12,
+      "name": "兔子窝",
+      "api": "http://cj.huimaojia.com:12345/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": false
     },
@@ -391,14 +391,14 @@
     },
     {
       "id": 4,
-      "parseName": "虾米",
-      "parseUrl": "https://jx.xmflv.com/?url=",
+      "parseName": "M3U8.tv",
+      "parseUrl": "https://jx.m3u8.tv/jiexi/?url=",
       "click": true
     },
     {
       "id": 5,
-      "parseName": "M3U8.tv",
-      "parseUrl": "https://jx.m3u8.tv/jiexi/?url=",
+      "parseName": "大亨解析",
+      "parseUrl": "http://jx.13tv.top/?url=",
       "click": true
     },
     {
@@ -409,26 +409,26 @@
     },
     {
       "id": 7,
-      "parseName": "大亨解析",
-      "parseUrl": "http://jx.13tv.top/?url=",
-      "click": true
-    },
-    {
-      "id": 8,
       "parseName": "play",
       "parseUrl": "https://www.playm3u8.cn/jiexi.php?url=",
       "click": true
     },
     {
-      "id": 9,
+      "id": 8,
       "parseName": "云解析",
       "parseUrl": "https://jx.mw0.cc/?url=",
       "click": true
     },
     {
-      "id": 10,
+      "id": 9,
       "parseName": "电影盒子",
       "parseUrl": "https://jx5.178du.com/p1/index.php?url=",
+      "click": true
+    },
+    {
+      "id": 10,
+      "parseName": "虾米",
+      "parseUrl": "https://jx.xmflv.com/?url=",
       "click": true
     },
     {
