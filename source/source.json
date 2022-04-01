@@ -517,6 +517,14 @@
       "channelUrls": [
         "http://iptv.tvfix.org/hls/tvn.m3u8"
       ]
+    },
+    {
+      "channelNum": 37,
+      "channelName": "HBO",
+      "channelUrls": [
+        "http://iptv.tvfix.org/hls/hbo.m3u8",
+        "http://iptv.tvfix.org/hls/hbo2.m3u8"
+      ]
     }
   ],
   "prase": [
