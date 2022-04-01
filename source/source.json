@@ -524,20 +524,20 @@
   "prase": [
     {
       "id": 1,
-      "parseName": "大亨解析",
-      "parseUrl": "http://jx.13tv.top/?url=",
-      "click": true
-    },
-    {
-      "id": 2,
       "parseName": "parwix",
       "parseUrl": "https://vip.parwix.com:4433/player/?url=",
       "click": true
     },
     {
-      "id": 3,
+      "id": 2,
       "parseName": "ok",
       "parseUrl": "https://okjx.cc?url=",
+      "click": true
+    },
+    {
+      "id": 3,
+      "parseName": "大亨解析",
+      "parseUrl": "http://jx.13tv.top/?url=",
       "click": true
     },
     {
