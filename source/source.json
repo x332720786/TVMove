@@ -463,7 +463,8 @@
         "http://iptv.tvfix.org/hls/jade.m3u8",
         "http://iptv.tvfix.org/hls/jade2.m3u8"
       ]
-    },    {
+    },
+    {
       "channelNum": 30,
       "channelName": "J2",
       "channelUrls": [
@@ -475,7 +476,7 @@
       "channelNum": 31,
       "channelName": "明珠台",
       "channelUrls": [
-        "http://iptv.tvfix.org/hls/pearl.m3u8"
+        "http://iptv.tvfix.org/hls/pearl.m3u8",
         "http://iptv.tvfix.org/hls/pearl2.m3u8",
         "http://kkmix1.f3322.net:825/hls/ch1/s.m3u8"
       ]
