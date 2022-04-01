@@ -192,7 +192,7 @@
       "searchFilter": false
     },
     {
-      "id": 35,
+      "id": 28,
       "name": "随便看",
       "api": "https://www.sbkdy.com/inc/api.php",
       "click": true,
@@ -237,13 +237,6 @@
       "id": 34,
       "name": "乐播资源",
       "api": "https://www.lebo.la/api.php/provide/vod/at/xml/",
-      "click": true,
-      "searchFilter": false
-    },
-    {
-      "id": 35,
-      "name": "淘影TV",
-      "api": "http://tv.4kvod.com/api.php/provide/vod/at/xml/",
       "click": true,
       "searchFilter": false
     }
