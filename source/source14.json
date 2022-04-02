@@ -526,6 +526,10 @@
       "id": 1,
       "parseName": "parwix",
       "parseUrl": "https://vip.parwix.com:4433/player/?url=",
+      "flag":[
+         "qq","qiyi","mgtv"
+      ]
+    }
       "click": true
     }
   ],
