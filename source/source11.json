@@ -11,7 +11,7 @@
     },
     {
       "id": 2,
-      "name": "无尽",
+      "name": "无尽资源",
       "api": "https://api.wujinapi.com/api.php/provide/vod/from/wjm3u8/at/xml/",
       "click": true,
       "searchFilter": false
@@ -193,55 +193,48 @@
     },
     {
       "id": 28,
-      "name": "星辰解析",
-      "api": "http://www.zycaiji.net:7788/api.php/provide/vod/at/xml/",
-      "click": true,
-      "searchFilter": false
-    },
-    {
-      "id": 29,
       "name": "随便看",
       "api": "https://www.sbkdy.com/inc/api.php",
       "click": true,
       "searchFilter": false
     },
     {
-      "id": 30,
+      "id": 29,
       "name": "555",
       "api": "http://www.zzrhgg.com/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": false
     },
     {
-      "id": 31,
+      "id": 30,
       "name": "柚子资源",
       "api": "http://tv.aitesucai.xyz/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": false
     },
     {
-      "id": 32,
+      "id": 31,
       "name": "艾旦",
       "api": "https://www.lovedan.net/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": false
     },
     {
-      "id": 33,
+      "id": 32,
       "name": "MBO",
       "api": "https://www.mbomovie.com/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": false
     },
     {
-      "id": 34,
+      "id": 33,
       "name": "爪可可",
       "api": "https://www.zwcoco.com/api.php/provide/vod/at/xml/",
       "click": true,
       "searchFilter": false
     },
     {
-      "id": 35,
+      "id": 34,
       "name": "乐播资源",
       "api": "https://www.lebo.la/api.php/provide/vod/at/xml/",
       "click": true,
@@ -578,9 +571,9 @@
       "click": true
     },
     {
-      "id": 9,
-      "parseName": "play",
-      "parseUrl": "https://www.playm3u8.cn/jiexi.php?url=",
+      "id": 19,
+      "parseName": "久看",
+      "parseUrl": "https://9kjx.com/?url=",
       "click": true
     },
     {
@@ -591,18 +584,24 @@
     },
     {
       "id": 11,
+      "parseName": "play",
+      "parseUrl": "https://www.playm3u8.cn/jiexi.php?url=",
+      "click": true
+    },
+    {
+      "id": 12,
       "parseName": "段友",
       "parseUrl": "https://shangjihuoke.com/CL4K/?url=",
       "click": true
     },
     {
-      "id": 12,
+      "id": 13,
       "parseName": "CH8",
       "parseUrl": "https://www.chok8.com//jx//?url=",
       "click": true
     },
     {
-      "id": 13,
+      "id": 14,
       "parseName": "老板",
       "parseUrl": "https://vip.laobandq.com/jiexi.php?url=",
       "click": true
