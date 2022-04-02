@@ -536,14 +536,14 @@
     },
     {
       "id": 3,
-      "parseName": "大亨解析",
-      "parseUrl": "http://jx.13tv.top/?url=",
+      "parseName": "人人迷",
+      "parseUrl": "https://jx.blbo.cc:4433/?url=",
       "click": true
     },
     {
       "id": 4,
-      "parseName": "人人迷",
-      "parseUrl": "https://jx.blbo.cc:4433/?url=",
+      "parseName": "大亨解析",
+      "parseUrl": "http://jx.13tv.top/?url=",
       "click": true
     },
     {
@@ -572,30 +572,24 @@
     },
     {
       "id": 9,
-      "parseName": "片库",
-      "parseUrl": "https://www.newsaas.cn/jx/?url=",
-      "click": true
-    },
-    {
-      "id": 10,
       "parseName": "play",
       "parseUrl": "https://www.playm3u8.cn/jiexi.php?url=",
       "click": true
     },
     {
-      "id": 11,
+      "id": 10,
       "parseName": "段友",
       "parseUrl": "https://shangjihuoke.com/CL4K/?url=",
       "click": true
     },
     {
-      "id": 12,
+      "id": 11,
       "parseName": "CH8",
       "parseUrl": "https://www.chok8.com//jx//?url=",
       "click": true
     },
     {
-      "id": 13,
+      "id": 12,
       "parseName": "老板",
       "parseUrl": "https://vip.laobandq.com/jiexi.php?url=",
       "click": true
