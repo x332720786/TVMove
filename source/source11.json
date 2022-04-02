@@ -225,6 +225,27 @@
       "api": "https://www.lovedan.net/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": false
+    },
+    {
+      "id": 33,
+      "name": "MBO",
+      "api": "https://www.mbomovie.com/api.php/provide/vod/at/xml",
+      "click": true,
+      "searchFilter": false
+    },
+    {
+      "id": 34,
+      "name": "爪可可",
+      "api": "https://www.zwcoco.com/api.php/provide/vod/at/xml/",
+      "click": true,
+      "searchFilter": false
+    },
+    {
+      "id": 35,
+      "name": "乐播资源",
+      "api": "https://www.lebo.la/api.php/provide/vod/at/xml/",
+      "click": true,
+      "searchFilter": false
     }
   ],
   "live": [
