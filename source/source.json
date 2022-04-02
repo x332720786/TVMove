@@ -542,8 +542,8 @@
     },
     {
       "id": 4,
-      "parseName": "大亨解析",
-      "parseUrl": "http://jx.13tv.top/?url=",
+      "parseName": "江湖腾讯云",
+      "parseUrl": "https://api.jhdyw.vip/?url=",
       "click": true
     },
     {
@@ -578,18 +578,24 @@
     },
     {
       "id": 10,
+      "parseName": "大亨解析",
+      "parseUrl": "http://jx.13tv.top/?url=",
+      "click": true
+    },
+    {
+      "id": 11,
       "parseName": "段友",
       "parseUrl": "https://shangjihuoke.com/CL4K/?url=",
       "click": true
     },
     {
-      "id": 11,
+      "id": 12,
       "parseName": "CH8",
       "parseUrl": "https://www.chok8.com//jx//?url=",
       "click": true
     },
     {
-      "id": 12,
+      "id": 13,
       "parseName": "老板",
       "parseUrl": "https://vip.laobandq.com/jiexi.php?url=",
       "click": true
