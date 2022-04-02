@@ -11,7 +11,7 @@
     },
     {
       "id": 2,
-      "name": "无尽",
+      "name": "无尽资源",
       "api": "https://api.wujinapi.com/api.php/provide/vod/from/wjm3u8/at/xml/",
       "click": true,
       "searchFilter": false
