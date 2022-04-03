@@ -608,101 +608,28 @@
   "prase": [
     {
       "id": 1,
-      "parseName": "parwix",
-      "parseUrl": "https://vip.parwix.com:4433/player/?url=",
+      "parseName": "123",
+      "parseUrl": "http://api.vip123kan.vip/?url=",
       "click": true
     },
     {
       "id": 2,
-      "parseName": "ok",
-      "parseUrl": "https://okjx.cc?url=",
+      "parseName": "老弟云",
+      "parseUrl": "http://jx.laodi.xyz:6699/api.php/user/jx?uid=4&ldkey=BLsUKYVZiWdmQc7bbpT3&url=",
       "click": true
     },
     {
       "id": 3,
-      "parseName": "人人迷",
-      "parseUrl": "https://jx.blbo.cc:4433/?url=",
+      "parseName": "战狼部",
+      "parseUrl": "https://jx.zhanlangbu.com/json.php/?url=",
       "click": true
     },
     {
       "id": 4,
-      "parseName": "江湖腾讯云",
-      "parseUrl": "https://api.jhdyw.vip/?url=",
-      "click": true
-    },
-    {
-      "id": 5,
-      "parseName": "M3U8.tv",
-      "parseUrl": "https://jx.m3u8.tv/jiexi/?url=",
-      "click": true
-    },
-    {
-      "id": 6,
-      "parseName": "虾米",
-      "parseUrl": "https://jx.xmflv.com/?url=",
-      "click": true
-    },
-    {
-      "id": 7,
-      "parseName": "云解析",
-      "parseUrl": "https://jx.mw0.cc/?url=",
-      "click": true
-    },
-    {
-      "id": 8,
-      "parseName": "电影盒子",
-      "parseUrl": "https://jx5.178du.com/p1/index.php?url=",
-      "click": true
-    },
-    {
-      "id": 19,
-      "parseName": "久看",
-      "parseUrl": "https://9kjx.com/?url=",
-      "click": true
-    },
-    {
-      "id": 10,
-      "parseName": "大亨解析",
-      "parseUrl": "http://jx.13tv.top/?url=",
-      "click": true
-    },
-    {
-      "id": 11,
-      "parseName": "play",
-      "parseUrl": "https://www.playm3u8.cn/jiexi.php?url=",
-      "click": true
-    },
-    {
-      "id": 12,
-      "parseName": "段友",
-      "parseUrl": "https://shangjihuoke.com/CL4K/?url=",
-      "click": true
-    },
-    {
-      "id": 13,
-      "parseName": "CH8",
-      "parseUrl": "https://www.chok8.com//jx//?url=",
-      "click": true
-    },
-    {
-      "id": 14,
-      "parseName": "老板",
-      "parseUrl": "https://vip.laobandq.com/jiexi.php?url=",
+      "parseName": "虎猫",
+      "parseUrl": "https://humaosp.com/json.php?url=",
       "click": true
     }
-  ],
-  "jsonParse": [
-    "http://api.vip123kan.vip/?url=",
-    "http://jx.laodi.xyz:6699/api.php/user/jx?uid=4&ldkey=BLsUKYVZiWdmQc7bbpT3&url=",
-    "https://jx.zhanlangbu.com/json.php/?url=",
-    "https://humaosp.com/json.php?url=",
-    "https://api.parwix.com:4433/analysis/json/?uid=654&my=abdeinruvxyBDORWX7&url=",
-    "https://ltnb.jeeves.vip/home/api?type=ys&uid=2509623&key=glnpyADKLMNOTU0249&url=",
-    "https://ltjx.jeeves.vip/home/api?type=ys&uid=1589472&key=aehjpzAHILOPQRU456&url=",
-    "https://jb.vjiangbei.com/home/api?type=ys&uid=281459&key=cfnoprCDJKLNPQTY34&url=",
-    "https://jb.vjiangbei.com/home/api?type=ys&uid=2219260&key=bcdjqBEFGLMPW01457&url=",
-    "https://ltnb.jeeves.vip/home/api?type=ys&uid=2492729&key=bkmopwEFMNQSUWXZ67&url=",
-    "https://jhjx.ptygx.com/?url="
   ],
   "searchApi": [
     {
