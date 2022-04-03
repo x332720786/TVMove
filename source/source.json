@@ -25,8 +25,8 @@
     },
     {
       "id": 4,
-      "name": "速更资源",
-      "api": "https://sugengzy.cn/api.php/provide/vod/at/xml",
+      "name": "飞速资源",
+      "api": "https://m3u8.feisuzyapi.com/vod/at/xml",
       "click": true,
       "searchFilter": false
     },
@@ -95,16 +95,17 @@
     },
     {
       "id": 14,
-      "name": "小蜻蜓",
+      "name": "小蜻蜓_B站",
       "api": "http://3ketv.com/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": false
     },
     {
       "id": 15,
-      "name": "播放呀",
-      "api": "https://www.bofangya.com/api.php/provide/vod/at/xml/",
+      "name": "速更资源",
+      "api": "https://sugengzy.cn/api.php/provide/vod/at/xml",
       "click": true,
+      "playerUrl": "https://wuxiezx.com/player/?url=",
       "searchFilter": false
     },
     {
@@ -132,13 +133,6 @@
       "id": 19,
       "name": "1886资源",
       "api": "http://cj.1886zy.co/inc/api.php",
-      "click": true,
-      "searchFilter": false
-    },
-    {
-      "id": 20,
-      "name": "飞速资源",
-      "api": "https://m3u8.feisuzyapi.com/vod/at/xml",
       "click": true,
       "searchFilter": false
     },
@@ -179,62 +173,55 @@
     },
     {
       "id": 26,
-      "name": "椰子解析",
-      "api": "https://zy.gbxy.net.cn/api.php/provide/vod/at/xml",
-      "click": true,
-      "searchFilter": false
-    },
-    {
-      "id": 27,
       "name": "麒麟解析",
       "api": "http://www.qilinzyz.com/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": false
     },
     {
-      "id": 28,
+      "id": 27,
       "name": "随便看",
       "api": "https://www.sbkdy.com/inc/api.php",
       "click": true,
       "searchFilter": false
     },
     {
-      "id": 29,
+      "id": 28,
       "name": "555",
       "api": "http://www.zzrhgg.com/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": false
     },
     {
-      "id": 30,
+      "id": 29,
       "name": "柚子资源",
       "api": "http://tv.aitesucai.xyz/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": false
     },
     {
-      "id": 31,
+      "id": 30,
       "name": "艾旦",
       "api": "https://www.lovedan.net/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": false
     },
     {
-      "id": 32,
+      "id": 31,
       "name": "MBO",
       "api": "https://www.mbomovie.com/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": false
     },
     {
-      "id": 33,
+      "id": 32,
       "name": "爪可可",
       "api": "https://www.zwcoco.com/api.php/provide/vod/at/xml/",
       "click": true,
       "searchFilter": false
     },
     {
-      "id": 34,
+      "id": 33,
       "name": "乐播资源",
       "api": "https://www.lebo.la/api.php/provide/vod/at/xml/",
       "click": true,
@@ -515,7 +502,7 @@
     },
     {
       "channelNum": 37,
-      "channelName": "TVN_韩国",
+      "channelName": "TVN",
       "channelUrls": [
         "http://iptv.tvfix.org/hls/tvn.m3u8"
       ]
@@ -687,18 +674,30 @@
     },
     {
       "id": 12,
+      "parseName": "60",
+      "parseUrl": "http://60jx.com/?url=",
+      "click": true
+    },
+    {
+      "id": 13,
+      "parseName": "BL",
+      "parseUrl": "https://vip.bljiex.com/?v=",
+      "click": true
+    },
+    {
+      "id": 14,
       "parseName": "段友",
       "parseUrl": "https://shangjihuoke.com/CL4K/?url=",
       "click": true
     },
     {
-      "id": 13,
+      "id": 15,
       "parseName": "CH8",
       "parseUrl": "https://www.chok8.com//jx//?url=",
       "click": true
     },
     {
-      "id": 14,
+      "id": 16,
       "parseName": "老板",
       "parseUrl": "https://vip.laobandq.com/jiexi.php?url=",
       "click": true
