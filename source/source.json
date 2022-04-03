@@ -519,8 +519,81 @@
         "http://iptv.tvfix.org/hls/hbo.m3u8",
         "http://iptv.tvfix.org/hls/hbo2.m3u8"
       ]
+    },
+    {
+      "channelNum": 38,
+      "channelName": "Discovery",
+      "channelUrls": [
+        "http://iptv.tvfix.org/hls/discovery.m3u8"
+      ]
+    },
+    {
+      "channelNum": 39,
+      "channelName": "RHK31",
+      "channelUrls": [
+        "http://iptv.tvfix.org/hls/rthk31.m3u8"
+      ]
+    },
+    {
+      "channelNum": 40,
+      "channelName": "RHK32",
+      "channelUrls": [
+        "http://iptv.tvfix.org/hls/rthk32.m3u8"
+      ]
+    },
+    {
+      "channelNum": 41,
+      "channelName": "Channel V",
+      "channelUrls": [
+        "http://iptv.tvfix.org/hls/channelv.m3u8"
+      ]
+    },
+    {
+      "channelNum": 42,
+      "channelName": "CHC动作电影",
+      "channelUrls": [
+        "http://iptv.tvfix.org/hls/chcatv.m3u8"
+      ]
+    },
+    {
+      "channelNum": 43,
+      "channelName": "CHC家庭影院",
+      "channelUrls": [
+        "http://iptv.tvfix.org/hls/chctv.m3u8"
+      ]
+    },
+    {
+      "channelNum": 44,
+      "channelName": "CHC高清电影",
+      "channelUrls": [
+        "http://iptv.tvfix.org/hls/chchd.m3u8"
+      ]
+    },
+    {
+      "channelNum": 45,
+      "channelName": "Hands Up Channel",
+      "channelUrls": [
+        "http://iptv.tvfix.org/hls/kid.m3u8",
+        "http://iptv.tvfix.org/hls/kid2.m3u8"
+      ]
+    },
+    {
+      "channelNum": 46,
+      "channelName": "NHK综合",
+      "channelUrls": [
+        "http://iptv.tvfix.org/hls/nhkg.m3u8",
+        "http://iptv.tvfix.org/hls/nhkg2.m3u8"
+      ]
+    },
+    {
+      "channelNum": 47,
+      "channelName": "Thrill",
+      "channelUrls": [
+        "http://iptv.tvfix.org/hls/thrill.m3u8",
+        "http://iptv.tvfix.org/hls/thrill2.m3u8"
+      ]
     }
-  ],
+  ]
   "prase": [
     {
       "id": 1,
