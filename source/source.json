@@ -104,6 +104,7 @@
       "id": 15,
       "name": "人人迷",
       "api": "https://koko.renrenmi.cc/api.php/provide/vod/at/xml",
+      "parserUrl": "https://jx.blbo.cc:4433/?url=",
       "click": true,
       "searchFilter": false
     },
@@ -627,14 +628,14 @@
     },
     {
       "id": 3,
-      "parseName": "5imv",
-      "parseUrl": "https://jx.5imv.net/m3u8.php?url=",
+      "parseName": "阿里影视",
+      "parseUrl": "http://aliys.cn:89/?url=",
       "click": true
     },
     {
       "id": 4,
-      "parseName": "阿里影视",
-      "parseUrl": "http://aliys.cn:89/?url=",
+      "parseName": "5imv",
+      "parseUrl": "https://jx.5imv.net/m3u8.php?url=",
       "click": true
     },
     {
