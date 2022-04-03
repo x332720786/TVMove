@@ -180,8 +180,8 @@
     },
     {
       "id": 27,
-      "name": "随便看",
-      "api": "https://www.sbkdy.com/inc/api.php",
+      "name": "饭团",
+      "api": "http://television.wkfile.com/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": false
     },
@@ -229,6 +229,13 @@
     },
     {
       "id": 34,
+      "name": "随便看",
+      "api": "https://www.sbkdy.com/inc/api.php",
+      "click": true,
+      "searchFilter": false
+    },
+    {
+      "id": 35,
       "name": "速更自",
       "api": "https://sugengzy.cn/api.php/provide/vod/at/xml",
       "click": true,
