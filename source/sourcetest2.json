@@ -95,7 +95,7 @@
     },
     {
       "id": 14,
-      "name": "小蜻蜓_B站",
+      "name": "小蜻蜓B站",
       "api": "http://3ketv.com/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": false
@@ -105,7 +105,7 @@
       "name": "速更资源",
       "api": "https://sugengzy.cn/api.php/provide/vod/at/xml",
       "click": true,
-      "playerUrl":"https://wuxiezx.com/player/?url=",
+      "playerUrl": "https://wuxiezx.com/player/?url=",
       "searchFilter": false
     },
     {
@@ -502,7 +502,7 @@
     },
     {
       "channelNum": 37,
-      "channelName": "TVN_韩国",
+      "channelName": "TVN",
       "channelUrls": [
         "http://iptv.tvfix.org/hls/tvn.m3u8"
       ]
