@@ -25,9 +25,8 @@
     },
     {
       "id": 4,
-      "name": "速更资源",
-      "api": "https://sugengzy.cn/api.php/provide/vod/at/xml",
-      "playerUrl":"https://wuxiezx.com/player/?url=",
+      "name": "飞速资源",
+      "api": "https://m3u8.feisuzyapi.com/vod/at/xml",
       "click": true,
       "searchFilter": false
     },
@@ -103,8 +102,9 @@
     },
     {
       "id": 15,
-      "name": "飞速资源",
-      "api": "https://m3u8.feisuzyapi.com/vod/at/xml",
+      "name": "人人迷",
+      "api": "https://koko.renrenmi.cc/api.php/provide/vod/at/xml",
+      "parserUrl": "https://jx.blbo.cc:4433/?url=",
       "click": true,
       "searchFilter": false
     },
@@ -180,8 +180,8 @@
     },
     {
       "id": 27,
-      "name": "随便看",
-      "api": "https://www.sbkdy.com/inc/api.php",
+      "name": "饭团",
+      "api": "http://television.wkfile.com/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": false
     },
@@ -225,6 +225,21 @@
       "name": "乐播资源",
       "api": "https://www.lebo.la/api.php/provide/vod/at/xml/",
       "click": true,
+      "searchFilter": false
+    },
+    {
+      "id": 34,
+      "name": "随便看",
+      "api": "https://www.sbkdy.com/inc/api.php",
+      "click": true,
+      "searchFilter": false
+    },
+    {
+      "id": 35,
+      "name": "速更自",
+      "api": "https://sugengzy.cn/api.php/provide/vod/at/xml",
+      "click": true,
+      "playerUrl": "https://wuxiezx.com/player/?url=",
       "searchFilter": false
     }
   ],
@@ -494,17 +509,114 @@
     },
     {
       "channelNum": 36,
-      "channelName": "TVN_韩国",
+      "channelName": "无线财经资讯",
+      "channelUrls": [
+        "http://iptv.tvfix.org/hls/finance.m3u8",
+        "http://iptv.tvfix.org/hls/finance2.m3u8"
+      ]
+    },
+    {
+      "channelNum": 37,
+      "channelName": "TVN",
       "channelUrls": [
         "http://iptv.tvfix.org/hls/tvn.m3u8"
       ]
     },
     {
-      "channelNum": 37,
+      "channelNum": 38,
       "channelName": "HBO",
       "channelUrls": [
         "http://iptv.tvfix.org/hls/hbo.m3u8",
         "http://iptv.tvfix.org/hls/hbo2.m3u8"
+      ]
+    },
+    {
+      "channelNum": 39,
+      "channelName": "Discovery",
+      "channelUrls": [
+        "http://iptv.tvfix.org/hls/discovery.m3u8"
+      ]
+    },
+    {
+      "channelNum": 40,
+      "channelName": "RHK31",
+      "channelUrls": [
+        "http://iptv.tvfix.org/hls/rthk31.m3u8"
+      ]
+    },
+    {
+      "channelNum": 41,
+      "channelName": "RHK32",
+      "channelUrls": [
+        "http://iptv.tvfix.org/hls/rthk32.m3u8"
+      ]
+    },
+    {
+      "channelNum": 42,
+      "channelName": "Channel V",
+      "channelUrls": [
+        "http://iptv.tvfix.org/hls/channelv.m3u8"
+      ]
+    },
+    {
+      "channelNum": 43,
+      "channelName": "CHC动作电影",
+      "channelUrls": [
+        "http://iptv.tvfix.org/hls/chcatv.m3u8"
+      ]
+    },
+    {
+      "channelNum": 44,
+      "channelName": "CHC家庭影院",
+      "channelUrls": [
+        "http://iptv.tvfix.org/hls/chctv.m3u8"
+      ]
+    },
+    {
+      "channelNum": 45,
+      "channelName": "CHC高清电影",
+      "channelUrls": [
+        "http://iptv.tvfix.org/hls/chchd.m3u8"
+      ]
+    },
+    {
+      "channelNum": 46,
+      "channelName": "Hands Up Channel",
+      "channelUrls": [
+        "http://iptv.tvfix.org/hls/kid.m3u8",
+        "http://iptv.tvfix.org/hls/kid2.m3u8"
+      ]
+    },
+    {
+      "channelNum": 47,
+      "channelName": "NHK综合",
+      "channelUrls": [
+        "http://iptv.tvfix.org/hls/nhkg.m3u8",
+        "http://iptv.tvfix.org/hls/nhkg2.m3u8"
+      ]
+    },
+    {
+      "channelNum": 48,
+      "channelName": "Thrill",
+      "channelUrls": [
+        "http://iptv.tvfix.org/hls/thrill.m3u8",
+        "http://iptv.tvfix.org/hls/thrill2.m3u8"
+      ]
+    },
+    {
+      "channelNum": 49,
+      "channelName": "animal",
+      "channelUrls": [
+        "http://iptv.tvfix.org/hls/animal.m3u8",
+        "http://iptv.tvfix.org/hls/animal2.m3u8"
+      ]
+    },
+    {
+      "channelNum": 50,
+      "channelName": "animax",
+      "channelUrls": [
+        "http://iptv.tvfix.org/hls/animax.m3u8",
+        "http://iptv.tvfix.org/hls/animax2.m3u8"
       ]
     }
   ],
@@ -513,9 +625,126 @@
       "id": 1,
       "parseName": "parwix",
       "parseUrl": "https://vip.parwix.com:4433/player/?url=",
-      "ext":{"flag":["qq","qiyi","mgtv"
-    ]
+      "click": true
     },
+    {
+      "id": 2,
+      "parseName": "parwix",
+      "parseUrl": "https://jx.parwix.com:4433/player/?url=",
+      "click": true
+    },
+    {
+      "id": 3,
+      "parseName": "ok",
+      "parseUrl": "https://okjx.cc?url=",
+      "click": true
+    },
+    {
+      "id": 4,
+      "parseName": "ok",
+      "parseUrl": "https://api.okjx.cc:3389/jx.php?url=",
+      "click": true
+    },
+    {
+      "id": 5,
+      "parseName": "阿里影视",
+      "parseUrl": "http://aliys.cn:89/?url=",
+      "click": true
+    },
+    {
+      "id": 6,
+      "parseName": "5imv",
+      "parseUrl": "https://jx.5imv.net/m3u8.php?url=",
+      "click": true
+    },
+    {
+      "id": 7,
+      "parseName": "江湖腾讯云",
+      "parseUrl": "https://api.jhdyw.vip/?url=",
+      "click": true
+    },
+    {
+      "id": 8,
+      "parseName": "无名小站",
+      "parseUrl": "https://www.administratorw.com/video.php?url=",
+      "click": true
+    },
+    {
+      "id": 9,
+      "parseName": "M3U8.tv",
+      "parseUrl": "https://jx.m3u8.tv/jiexi/?url=",
+      "click": true
+    },
+    {
+      "id": 10,
+      "parseName": "久看",
+      "parseUrl": "https://9kjx.com/?url=",
+      "click": true
+    },
+    {
+      "id": 11,
+      "parseName": "电影盒子",
+      "parseUrl": "https://jx5.178du.com/p1/index.php?url=",
+      "click": true
+    },
+    {
+      "id": 12,
+      "parseName": "60",
+      "parseUrl": "http://60jx.com/?url=",
+      "click": true
+    },
+    {
+      "id": 13,
+      "parseName": "虾米",
+      "parseUrl": "https://jx.xmflv.com/?url=",
+      "click": true
+    },
+    {
+      "id": 14,
+      "parseName": "云解析",
+      "parseUrl": "https://jx.mw0.cc/?url=",
+      "click": true
+    },
+    {
+      "id": 15,
+      "parseName": "人人迷",
+      "parseUrl": "https://jx.blbo.cc:4433/?url=",
+      "click": true
+    },
+    {
+      "id": 16,
+      "parseName": "大亨解析",
+      "parseUrl": "http://jx.13tv.top/?url=",
+      "click": true
+    },
+    {
+      "id": 17,
+      "parseName": "play",
+      "parseUrl": "https://www.playm3u8.cn/jiexi.php?url=",
+      "click": true
+    },
+    {
+      "id": 18,
+      "parseName": "BL",
+      "parseUrl": "https://vip.bljiex.com/?v=",
+      "click": true
+    },
+    {
+      "id": 19,
+      "parseName": "段友",
+      "parseUrl": "https://shangjihuoke.com/CL4K/?url=",
+      "click": true
+    },
+    {
+      "id": 20,
+      "parseName": "CH8",
+      "parseUrl": "https://www.chok8.com//jx//?url=",
+      "click": true
+    },
+    {
+      "id": 21,
+      "parseName": "老板",
+      "parseUrl": "https://vip.laobandq.com/jiexi.php?url=",
       "click": true
     }
   ],
