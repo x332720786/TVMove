@@ -515,9 +515,9 @@
     },
     {
       "channelNum": 37,
-      "channelName": "TVN_韩国",
+      "channelName": "广东珠江",
       "channelUrls": [
-        "http://iptv.tvfix.org/hls/tvn.m3u8"
+        "https://tcdn.itouchtv.cn/live/gdzj.m3u8?t_token=86b7522e5d7d6bac42242a52792fe575-8%2FeH3OlYqr%2FGG7UtM7heq9Ct6T2pgvXs9c65ysAhiH%2FPGp0GFZpNsbdb7jBO6nnSimrfQ0rOgzWJ5dj501ATlKMRdQf%2BfeJihlGp77ZctfyZaVoXUuxMzntq%2Bge02vWJDPVsGN8%2BYWziex2PzHVy6hpGkqEcoxHuro6S9N%2F7xyIDdTTgUIuPrqECB1X4bt5Jh8Zp1Yem5xbHfeUq8G9CUOCkeKWfEYM%2BiEWRLxAsdCgiEF4ARb5lXjSnDCrZFRRQPlq3Qb34CcH2Gyg2NST0JSNEB%2BgMlOe2trPU7jMADA4kB%2F6rFJBh%2BhHBpV0XIihT"
       ]
     },
     {
@@ -615,6 +615,13 @@
       "channelUrls": [
         "http://iptv.tvfix.org/hls/animax.m3u8",
         "http://iptv.tvfix.org/hls/animax2.m3u8"
+      ]
+    },
+    {
+      "channelNum": 51,
+      "channelName": "TVN_韩国",
+      "channelUrls": [
+        "http://iptv.tvfix.org/hls/tvn.m3u8"
       ]
     }
   ]
