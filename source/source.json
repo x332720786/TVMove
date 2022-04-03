@@ -620,8 +620,8 @@
     },
     {
       "id": 3,
-      "parseName": "人人迷",
-      "parseUrl": "https://jx.blbo.cc:4433/?url=",
+      "parseName": "5imv",
+      "parseUrl": "https://jx.5imv.net/m3u8.php?url=",
       "click": true
     },
     {
@@ -632,20 +632,20 @@
     },
     {
       "id": 5,
+      "parseName": "人人迷",
+      "parseUrl": "https://jx.blbo.cc:4433/?url=",
+      "click": true
+    },
+    {
+      "id": 6,
       "parseName": "M3U8.tv",
       "parseUrl": "https://jx.m3u8.tv/jiexi/?url=",
       "click": true
     },
     {
-      "id": 6,
-      "parseName": "虾米",
-      "parseUrl": "https://jx.xmflv.com/?url=",
-      "click": true
-    },
-    {
       "id": 7,
-      "parseName": "云解析",
-      "parseUrl": "https://jx.mw0.cc/?url=",
+      "parseName": "久看",
+      "parseUrl": "https://9kjx.com/?url=",
       "click": true
     },
     {
@@ -655,49 +655,55 @@
       "click": true
     },
     {
-      "id": 19,
-      "parseName": "久看",
-      "parseUrl": "https://9kjx.com/?url=",
-      "click": true
-    },
-    {
-      "id": 10,
-      "parseName": "大亨解析",
-      "parseUrl": "http://jx.13tv.top/?url=",
-      "click": true
-    },
-    {
-      "id": 11,
-      "parseName": "play",
-      "parseUrl": "https://www.playm3u8.cn/jiexi.php?url=",
-      "click": true
-    },
-    {
-      "id": 12,
+      "id": 9,
       "parseName": "60",
       "parseUrl": "http://60jx.com/?url=",
       "click": true
     },
     {
+      "id": 10,
+      "parseName": "虾米",
+      "parseUrl": "https://jx.xmflv.com/?url=",
+      "click": true
+    },
+    {
+      "id": 11,
+      "parseName": "云解析",
+      "parseUrl": "https://jx.mw0.cc/?url=",
+      "click": true
+    },
+    {
+      "id": 12,
+      "parseName": "大亨解析",
+      "parseUrl": "http://jx.13tv.top/?url=",
+      "click": true
+    },
+    {
       "id": 13,
+      "parseName": "play",
+      "parseUrl": "https://www.playm3u8.cn/jiexi.php?url=",
+      "click": true
+    },
+    {
+      "id": 14,
       "parseName": "BL",
       "parseUrl": "https://vip.bljiex.com/?v=",
       "click": true
     },
     {
-      "id": 14,
+      "id": 15,
       "parseName": "段友",
       "parseUrl": "https://shangjihuoke.com/CL4K/?url=",
       "click": true
     },
     {
-      "id": 15,
+      "id": 16,
       "parseName": "CH8",
       "parseUrl": "https://www.chok8.com//jx//?url=",
       "click": true
     },
     {
-      "id": 16,
+      "id": 17,
       "parseName": "老板",
       "parseUrl": "https://vip.laobandq.com/jiexi.php?url=",
       "click": true
