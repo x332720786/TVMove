@@ -53,8 +53,8 @@
     },
     {
       "id": 8,
-      "name": "PZ影视",
-      "api": "https://puz.pub/api.php/provide/vod/at/xml",
+      "name": "U酷",
+      "api": "https://api.ukuapi.com/api.php/provide/vod/from/ukm3u8/at/xml/",
       "click": true,
       "searchFilter": false
     },
@@ -240,6 +240,13 @@
       "api": "https://sugengzy.cn/api.php/provide/vod/at/xml",
       "click": true,
       "playerUrl": "https://wuxiezx.com/player/?url=",
+      "searchFilter": false
+    },
+    {
+      "id": 36,
+      "name": "PZ影视",
+      "api": "https://puz.pub/api.php/provide/vod/at/xml",
+      "click": true,
       "searchFilter": false
     }
   ],
