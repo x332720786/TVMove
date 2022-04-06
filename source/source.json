@@ -32,21 +32,21 @@
     },
     {
       "id": 5,
-      "name": "U酷m3u8",
+      "name": "U酷资源",
       "api": "https://api.ukuapi.com/api.php/provide/vod/from/ukm3u8/at/xml/",
       "click": true,
       "searchFilter": false
     },
     {
       "id": 6,
-      "name": "CK",
+      "name": "CK资源",
       "api": "https://ckzy.me/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": false
     },
     {
       "id": 7,
-      "name": "卧龙",
+      "name": "卧龙资源",
       "api": "https://collect.wolongzyw.com/api.php/provide/vod/at/xml/",
       "click": true,
       "searchFilter": false
@@ -74,8 +74,8 @@
     },
     {
       "id": 11,
-      "name": "神马影院",
-      "api": "http://www.zitv.cc/api.php/provide/vod/at/xml/",
+      "name": "想看资源",
+      "api": "https://m3u8.xiangkanapi.com/api.php/provide/vod/from/xkm3u8/at/xml/",
       "click": true,
       "searchFilter": false
     },
@@ -235,6 +235,13 @@
     },
     {
       "id": 34,
+      "name": "神马影院",
+      "api": "http://www.zitv.cc/api.php/provide/vod/at/xml/",
+      "click": true,
+      "searchFilter": false
+    },
+    {
+      "id": 35,
       "name": "速更自",
       "api": "https://sugengzy.cn/api.php/provide/vod/at/xml",
       "click": true,
