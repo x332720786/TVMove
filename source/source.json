@@ -26,7 +26,7 @@
     {
       "id": 4,
       "name": "北斗星",
-      "api": "https://v8.bdxzyapi.com/inc/api.php",
+      "api": "https://api.bdxapi.com/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": false
     },
