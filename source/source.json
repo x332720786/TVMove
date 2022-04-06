@@ -39,7 +39,7 @@
     },
     {
       "id": 6,
-      "name": "超快",
+      "name": "CK",
       "api": "https://ckzy.me/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": false
