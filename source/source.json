@@ -236,6 +236,13 @@
     },
     {
       "id": 34,
+      "name": "淘片",
+      "api": "https://taopianapi.com/home/cjapi/as/mc10/vod/xml",
+      "click": true,
+      "searchFilter": false
+    },
+    {
+      "id": 35,
       "name": "速更自",
       "api": "https://sugengzy.cn/api.php/provide/vod/at/xml",
       "click": true,
