@@ -81,13 +81,20 @@
     },
     {
       "id": 12,
+      "name": "鱼乐资源",
+      "api": "https://api.yulecj.com/api.php/provide/vod/at/xml/",
+      "click": true,
+      "searchFilter": false
+    },
+    {
+      "id": 13,
       "name": "天空资源",
       "api": "http://api.tiankongapi.com/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": false
     },
     {
-      "id": 13,
+      "id": 14,
       "name": "番茄自解",
       "api": "http://api.fqzy.cc/api.php/provide/vod/at/xml",
       "click": true,
@@ -95,16 +102,9 @@
       "searchFilter": false
     },
     {
-      "id": 14,
+      "id": 15,
       "name": "酷点",
       "api": "https://kudian10.com/api.php/provide/vod/at/xml",
-      "click": true,
-      "searchFilter": false
-    },
-    {
-      "id": 15,
-      "name": "39看",
-      "api": "https://www.39kan.com/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": false
     },
@@ -180,76 +180,83 @@
     },
     {
       "id": 26,
+      "name": "39看",
+      "api": "https://www.39kan.com/api.php/provide/vod/at/xml",
+      "click": true,
+      "searchFilter": false
+    },
+    {
+      "id": 27,
       "name": "555",
       "api": "http://www.zzrhgg.com/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": false
     },
     {
-      "id": 27,
+      "id": 28,
       "name": "柚子资源",
       "api": "http://tv.aitesucai.xyz/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": false
     },
     {
-      "id": 28,
+      "id": 29,
       "name": "艾旦",
       "api": "https://www.lovedan.net/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": false
     },
     {
-      "id": 29,
+      "id": 30,
       "name": "MBO",
       "api": "https://www.mbomovie.com/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": false
     },
     {
-      "id": 30,
+      "id": 31,
       "name": "爪可可",
       "api": "https://www.zwcoco.com/api.php/provide/vod/at/xml/",
       "click": true,
       "searchFilter": false
     },
     {
-      "id": 31,
+      "id": 32,
       "name": "随便看",
       "api": "https://www.sbkdy.com/inc/api.php",
       "click": true,
       "searchFilter": false
     },
     {
-      "id": 32,
+      "id": 33,
       "name": "兔子窝",
       "api": "http://cj.huimaojia.com:12345/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": false
     },
     {
-      "id": 33,
+      "id": 34,
       "name": "神马影院",
       "api": "http://www.zitv.cc/api.php/provide/vod/at/xml/",
       "click": true,
       "searchFilter": false
     },
     {
-      "id": 34,
+      "id": 35,
       "name": "淘片",
       "api": "https://taopianapi.com/home/cjapi/as/mc10/vod/xml",
       "click": true,
       "searchFilter": false
     },
     {
-      "id": 35,
+      "id": 36,
       "name": "速影",
       "api": "https://xn--128-zm3fr26s.xyz/inc/api.php",
       "click": true,
       "searchFilter": false
     },
     {
-      "id": 36,
+      "id": 37,
       "name": "速更自",
       "api": "https://sugengzy.cn/api.php/provide/vod/at/xml",
       "click": true,
