@@ -644,20 +644,20 @@
   "prase": [
     {
       "id": 1,
+      "parseName": "阿里影视",
+      "parseUrl": "http://aliys.cn:89/?url=",
+      "click": true
+    },
+    {
+      "id": 2,
       "parseName": "parwix",
       "parseUrl": "https://vip.parwix.com:4433/player/?url=",
       "click": true
     },
     {
-      "id": 2,
+      "id": 3,
       "parseName": "ok",
       "parseUrl": "https://okjx.cc?url=",
-      "click": true
-    },
-    {
-      "id": 3,
-      "parseName": "阿里影视",
-      "parseUrl": "http://aliys.cn:89/?url=",
       "click": true
     },
     {
