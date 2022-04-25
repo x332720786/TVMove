@@ -95,10 +95,9 @@
     },
     {
       "id": 14,
-      "name": "番茄自解",
-      "api": "http://api.fqzy.cc/api.php/provide/vod/at/xml",
+      "name": "红牛",
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8/at/xml/",
       "click": true,
-      "playerUrl": "https://dp.fqplayer.com/dplayer/?url=",
       "searchFilter": false
     },
     {
@@ -257,6 +256,14 @@
     },
     {
       "id": 37,
+      "name": "番茄自解",
+      "api": "http://api.fqzy.cc/api.php/provide/vod/at/xml",
+      "click": true,
+      "playerUrl": "https://dp.fqplayer.com/dplayer/?url=",
+      "searchFilter": false
+    },
+    {
+      "id": 38,
       "name": "速更自",
       "api": "https://sugengzy.cn/api.php/provide/vod/at/xml",
       "click": true,
