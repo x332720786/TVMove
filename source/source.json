@@ -179,8 +179,8 @@
     },
     {
       "id": 26,
-      "name": "39看",
-      "api": "https://www.39kan.com/api.php/provide/vod/at/xml",
+      "name": "天堂解析",
+      "api": "http://vipmv.cc/api.php/provide/vod/at/xml/",
       "click": true,
       "searchFilter": false
     },
@@ -256,6 +256,13 @@
     },
     {
       "id": 37,
+      "name": "39看",
+      "api": "https://www.39kan.com/api.php/provide/vod/at/xml",
+      "click": true,
+      "searchFilter": false
+    },
+    {
+      "id": 38,
       "name": "番茄自解",
       "api": "http://api.fqzy.cc/api.php/provide/vod/at/xml",
       "click": true,
@@ -263,7 +270,7 @@
       "searchFilter": false
     },
     {
-      "id": 38,
+      "id": 39,
       "name": "速更自",
       "api": "https://sugengzy.cn/api.php/provide/vod/at/xml",
       "click": true,
