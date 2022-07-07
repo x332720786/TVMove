@@ -60,7 +60,7 @@
     },
     {
       "id": 9,
-      "name": "光速",
+      "name": "光速资源",
       "api": "https://api.guangsuapi.com/api.php/provide/vod/at/xml/",
       "click": true,
       "searchFilter": false
@@ -136,133 +136,70 @@
       "searchFilter": false
     },
     {
-      "id": 0,
-      "name": "阿里解析",
-      "api": "http://www.feishi.ltd/api.php/provide/vod/at/xml",
-      "click": true,
-      "searchFilter": false
-    },
-    {
-      "id": 21,
-      "name": "速播解析",
-      "api": "https://gcku.suboyun.vip/api.php/provide/vod/at/xml",
-      "click": true,
-      "searchFilter": false
-    },
-    {
-      "id": 22,
-      "name": "BL解析",
-      "api": "https://bljiex.com/api.php/provide/vod/at/xml",
-      "click": true,
-      "searchFilter": false
-    },
-    {
-      "id": 23,
+      "id": 20,
       "name": "麒麟解析",
       "api": "http://www.qilinzyz.com/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": false
     },
     {
-      "id": 24,
-      "name": "饭团",
-      "api": "http://television.wkfile.com/api.php/provide/vod/at/xml",
-      "click": true,
-      "searchFilter": false
-    },
-    {
-      "id": 25,
-      "name": "小蜻蜓_B站",
-      "api": "http://3ketv.com/api.php/provide/vod/at/xml",
-      "click": true,
-      "searchFilter": false
-    },
-    {
-      "id": 26,
+      "id": 21,
       "name": "天堂解析",
       "api": "http://vipmv.cc/api.php/provide/vod/at/xml/",
       "click": true,
       "searchFilter": false
     },
     {
-      "id": 27,
+      "id": 22,
       "name": "555",
       "api": "http://www.zzrhgg.com/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": false
     },
     {
-      "id": 28,
-      "name": "柚子资源",
-      "api": "http://tv.aitesucai.xyz/api.php/provide/vod/at/xml",
-      "click": true,
-      "searchFilter": false
-    },
-    {
-      "id": 29,
-      "name": "艾旦",
-      "api": "https://www.lovedan.net/api.php/provide/vod/at/xml",
-      "click": true,
-      "searchFilter": false
-    },
-    {
-      "id": 30,
+      "id": 23,
       "name": "MBO",
       "api": "https://www.mbomovie.com/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": false
     },
     {
-      "id": 31,
-      "name": "爪可可",
-      "api": "https://www.zwcoco.com/api.php/provide/vod/at/xml/",
-      "click": true,
-      "searchFilter": false
-    },
-    {
-      "id": 32,
+      "id": 24,
       "name": "随便看",
       "api": "https://www.sbkdy.com/inc/api.php",
       "click": true,
       "searchFilter": false
     },
     {
-      "id": 33,
-      "name": "兔子窝",
-      "api": "http://cj.huimaojia.com:12345/api.php/provide/vod/at/xml",
-      "click": true,
-      "searchFilter": false
-    },
-    {
-      "id": 34,
+      "id": 25,
       "name": "神马影院",
       "api": "http://www.zitv.cc/api.php/provide/vod/at/xml/",
       "click": true,
       "searchFilter": false
     },
     {
-      "id": 35,
+      "id": 26,
       "name": "淘片",
       "api": "https://taopianapi.com/home/cjapi/as/mc10/vod/xml",
       "click": true,
       "searchFilter": false
     },
     {
-      "id": 36,
+      "id": 27,
       "name": "速影",
       "api": "https://xn--128-zm3fr26s.xyz/inc/api.php",
       "click": true,
       "searchFilter": false
     },
     {
-      "id": 37,
+      "id": 28,
       "name": "39看",
       "api": "https://www.39kan.com/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": false
     },
     {
-      "id": 38,
+      "id": 29,
       "name": "番茄自解",
       "api": "http://api.fqzy.cc/api.php/provide/vod/at/xml",
       "click": true,
@@ -270,7 +207,7 @@
       "searchFilter": false
     },
     {
-      "id": 39,
+      "id": 30,
       "name": "速更自",
       "api": "https://sugengzy.cn/api.php/provide/vod/at/xml",
       "click": true,
@@ -485,193 +422,25 @@
         "http://iptv.tvfix.org/hls/gdhd.m3u8",
         "http://39.134.115.163:8080/PLTV/88888910/224/3221225701/index.m3u8"
       ]
-    },
-    {
-      "channelNum": 29,
-      "channelName": "翡翠台",
-      "channelUrls": [
-        "http://iptv.tvfix.org/hls/jade.m3u8",
-        "http://iptv.tvfix.org/hls/jade2.m3u8"
-      ]
-    },
-    {
-      "channelNum": 30,
-      "channelName": "J2",
-      "channelUrls": [
-        "http://iptv.tvfix.org/hls/j2.m3u8",
-        "http://iptv.tvfix.org/hls/j22.m3u8"
-      ]
-    },
-    {
-      "channelNum": 31,
-      "channelName": "明珠台",
-      "channelUrls": [
-        "http://iptv.tvfix.org/hls/pearl.m3u8",
-        "http://iptv.tvfix.org/hls/pearl2.m3u8",
-        "http://kkmix1.f3322.net:825/hls/ch1/s.m3u8"
-      ]
-    },
-    {
-      "channelNum": 32,
-      "channelName": "VIUTV",
-      "channelUrls": [
-        "http://iptv.tvfix.org/hls/viutv.m3u8",
-        "http://iptv.tvfix.org/hls/viutv2.m3u8",
-        "http://185.207.176.189:8080/channels/tv-99/playlist.m3u8"
-      ]
-    },
-    {
-      "channelNum": 33,
-      "channelName": "VIUTV6",
-      "channelUrls": [
-        "http://iptv.tvfix.org/hls/viutv6.m3u8"
-      ]
-    },
-    {
-      "channelNum": 34,
-      "channelName": "开电视",
-      "channelUrls": [
-        "http://iptv.tvfix.org/hls/opentv.m3u8"
-      ]
-    },
-    {
-      "channelNum": 35,
-      "channelName": "无线新闻",
-      "channelUrls": [
-        "http://iptv.tvfix.org/hls/inews.m3u8",
-        "http://iptv.tvfix.org/hls/inews2.m3u8"
-      ]
-    },
-    {
-      "channelNum": 36,
-      "channelName": "无线财经资讯",
-      "channelUrls": [
-        "http://iptv.tvfix.org/hls/finance.m3u8",
-        "http://iptv.tvfix.org/hls/finance2.m3u8"
-      ]
-    },
-    {
-      "channelNum": 37,
-      "channelName": "TVN",
-      "channelUrls": [
-        "http://iptv.tvfix.org/hls/tvn.m3u8"
-      ]
-    },
-    {
-      "channelNum": 38,
-      "channelName": "HBO",
-      "channelUrls": [
-        "http://iptv.tvfix.org/hls/hbo.m3u8",
-        "http://iptv.tvfix.org/hls/hbo2.m3u8"
-      ]
-    },
-    {
-      "channelNum": 39,
-      "channelName": "Discovery",
-      "channelUrls": [
-        "http://iptv.tvfix.org/hls/discovery.m3u8"
-      ]
-    },
-    {
-      "channelNum": 40,
-      "channelName": "RHK31",
-      "channelUrls": [
-        "http://iptv.tvfix.org/hls/rthk31.m3u8"
-      ]
-    },
-    {
-      "channelNum": 41,
-      "channelName": "RHK32",
-      "channelUrls": [
-        "http://iptv.tvfix.org/hls/rthk32.m3u8"
-      ]
-    },
-    {
-      "channelNum": 42,
-      "channelName": "Channel V",
-      "channelUrls": [
-        "http://iptv.tvfix.org/hls/channelv.m3u8"
-      ]
-    },
-    {
-      "channelNum": 43,
-      "channelName": "CHC动作电影",
-      "channelUrls": [
-        "http://iptv.tvfix.org/hls/chcatv.m3u8"
-      ]
-    },
-    {
-      "channelNum": 44,
-      "channelName": "CHC家庭影院",
-      "channelUrls": [
-        "http://iptv.tvfix.org/hls/chctv.m3u8"
-      ]
-    },
-    {
-      "channelNum": 45,
-      "channelName": "CHC高清电影",
-      "channelUrls": [
-        "http://iptv.tvfix.org/hls/chchd.m3u8"
-      ]
-    },
-    {
-      "channelNum": 46,
-      "channelName": "Hands Up Channel",
-      "channelUrls": [
-        "http://iptv.tvfix.org/hls/kid.m3u8",
-        "http://iptv.tvfix.org/hls/kid2.m3u8"
-      ]
-    },
-    {
-      "channelNum": 47,
-      "channelName": "NHK综合",
-      "channelUrls": [
-        "http://iptv.tvfix.org/hls/nhkg.m3u8",
-        "http://iptv.tvfix.org/hls/nhkg2.m3u8"
-      ]
-    },
-    {
-      "channelNum": 48,
-      "channelName": "Thrill",
-      "channelUrls": [
-        "http://iptv.tvfix.org/hls/thrill.m3u8",
-        "http://iptv.tvfix.org/hls/thrill2.m3u8"
-      ]
-    },
-    {
-      "channelNum": 49,
-      "channelName": "animal",
-      "channelUrls": [
-        "http://iptv.tvfix.org/hls/animal.m3u8",
-        "http://iptv.tvfix.org/hls/animal2.m3u8"
-      ]
-    },
-    {
-      "channelNum": 50,
-      "channelName": "animax",
-      "channelUrls": [
-        "http://iptv.tvfix.org/hls/animax.m3u8",
-        "http://iptv.tvfix.org/hls/animax2.m3u8"
-      ]
     }
   ],
   "prase": [
     {
       "id": 1,
-      "parseName": "parwix",
-      "parseUrl": "https://vip.parwix.com:4433/player/?url=",
+      "parseName": "ysys",
+      "parseUrl": "http://json.ysys.asia/home/api?type=ys&uid=277542&key=eghkqsyzBFIY234568&url=",
       "click": true
     },
     {
       "id": 2,
-      "parseName": "ok",
-      "parseUrl": "https://okjx.cc?url=",
+      "parseName": "parwix",
+      "parseUrl": "https://jx.parwix.com:4433/player/?url=",
       "click": true
     },
     {
       "id": 3,
-      "parseName": "ysys",
-      "parseUrl": "http://json.ysys.asia/home/api?type=ys&uid=277542&key=eghkqsyzBFIY234568&url=",
+      "parseName": "ok",
+      "parseUrl": "https://okjx.cc?url=",
       "click": true
     },
     {
@@ -683,7 +452,7 @@
     {
       "id": 5,
       "parseName": "parwix",
-      "parseUrl": "https://jx.parwix.com:4433/player/?url=",
+      "parseUrl": "https://vip.parwix.com:4433/player/?url=",
       "click": true
     },
     {
